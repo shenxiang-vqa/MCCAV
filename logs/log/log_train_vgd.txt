@@ -1,0 +1,6251 @@
+nowTime: 2023-10-20 15:56:02
+epoch = 1  loss = 0.03085013810592662
+lr = 3.5e-05
+Overall Accuracy is: 72.48
+
+nowTime: 2023-10-20 15:58:55
+epoch = 2  loss = 0.024326019492316716
+lr = 7e-05
+Overall Accuracy is: 75.48
+
+nowTime: 2023-10-20 16:01:52
+epoch = 3  loss = 0.021064309006351225
+lr = 0.00010499999999999999
+Overall Accuracy is: 76.04
+
+nowTime: 2023-10-20 16:04:48
+epoch = 4  loss = 0.018868050023897565
+lr = 0.00014
+Overall Accuracy is: 75.58
+
+nowTime: 2023-10-20 16:07:43
+epoch = 5  loss = 0.01609556931871802
+lr = 0.00014
+Overall Accuracy is: 76.92
+
+nowTime: 2023-10-20 16:10:36
+epoch = 6  loss = 0.013963512696163638
+lr = 0.00014
+Overall Accuracy is: 77.76
+
+nowTime: 2023-10-20 16:13:32
+epoch = 7  loss = 0.012255496207541626
+lr = 0.00014
+Overall Accuracy is: 77.37
+
+nowTime: 2023-10-20 16:16:26
+epoch = 8  loss = 0.010918026009224546
+lr = 0.00014
+Overall Accuracy is: 77.87
+
+nowTime: 2023-10-20 16:19:19
+epoch = 9  loss = 0.009880817734296266
+lr = 0.00014
+Overall Accuracy is: 76.81
+
+nowTime: 2023-10-20 16:22:15
+epoch = 10  loss = 0.009048257088842318
+lr = 0.00014
+Overall Accuracy is: 77.13
+
+nowTime: 2023-10-20 16:25:08
+epoch = 11  loss = 0.005420592509584814
+lr = 2.8e-05
+Overall Accuracy is: 78.79
+
+nowTime: 2023-10-20 16:28:03
+epoch = 12  loss = 0.004030799278282538
+lr = 2.8e-05
+Overall Accuracy is: 79.49
+
+nowTime: 2023-10-20 16:30:55
+epoch = 13  loss = 0.0031819424579353044
+lr = 5.600000000000001e-06
+Overall Accuracy is: 79.42
+
+nowTime: 2023-10-20 16:33:48
+epoch = 14  loss = 0.0029016384750979334
+lr = 5.600000000000001e-06
+Overall Accuracy is: 79.42
+
+nowTime: 2023-10-20 16:36:43
+epoch = 15  loss = 0.002734011037345885
+lr = 1.12e-06
+Overall Accuracy is: 79.53
+
+nowTime: 2023-10-20 16:53:40
+epoch = 1  loss = 0.03351115734357591
+lr = 3.5e-05
+Overall Accuracy is: 60.72
+
+nowTime: 2023-10-20 16:56:36
+epoch = 2  loss = 0.028087913818343815
+lr = 7e-05
+Overall Accuracy is: 64.04
+
+nowTime: 2023-10-20 16:59:30
+epoch = 3  loss = 0.025145614437350073
+lr = 0.00010499999999999999
+Overall Accuracy is: 64.79
+
+nowTime: 2023-10-20 17:02:25
+epoch = 4  loss = 0.022946098311290693
+lr = 0.00014
+Overall Accuracy is: 65.82
+
+nowTime: 2023-10-20 17:05:22
+epoch = 5  loss = 0.020000799894471816
+lr = 0.00014
+Overall Accuracy is: 67.15
+
+nowTime: 2023-10-20 17:08:18
+epoch = 6  loss = 0.017496698371248322
+lr = 0.00014
+Overall Accuracy is: 67.07
+
+nowTime: 2023-10-20 17:11:14
+epoch = 7  loss = 0.01550879685449343
+lr = 0.00014
+Overall Accuracy is: 67.78
+
+nowTime: 2023-10-20 17:14:07
+epoch = 8  loss = 0.013920719284796467
+lr = 0.00014
+Overall Accuracy is: 67.56
+
+nowTime: 2023-10-20 17:17:01
+epoch = 9  loss = 0.012609524248474509
+lr = 0.00014
+Overall Accuracy is: 67.74
+
+nowTime: 2023-10-20 17:19:54
+epoch = 10  loss = 0.011517000074022522
+lr = 0.00014
+Overall Accuracy is: 67.81
+
+nowTime: 2023-10-20 17:22:48
+epoch = 11  loss = 0.007164646089414395
+lr = 2.8e-05
+Overall Accuracy is: 70.09
+
+nowTime: 2023-10-20 17:25:41
+epoch = 12  loss = 0.005351828366689697
+lr = 2.8e-05
+Overall Accuracy is: 69.92
+
+nowTime: 2023-10-20 17:28:35
+epoch = 13  loss = 0.004218462672030983
+lr = 5.600000000000001e-06
+Overall Accuracy is: 70.20
+
+nowTime: 2023-10-20 17:31:29
+epoch = 14  loss = 0.003838007197431033
+lr = 5.600000000000001e-06
+Overall Accuracy is: 70.13
+
+nowTime: 2023-10-20 17:34:22
+epoch = 15  loss = 0.0035735654172556527
+lr = 1.12e-06
+Overall Accuracy is: 70.18
+
+nowTime: 2023-10-20 20:11:32
+epoch = 1  loss = 0.03458132262864344
+lr = 3.5e-05
+Overall Accuracy is: 57.17
+
+nowTime: 2023-10-20 20:13:33
+epoch = 2  loss = 0.02912156793639798
+lr = 7e-05
+Overall Accuracy is: 62.32
+
+nowTime: 2023-10-20 20:15:33
+epoch = 3  loss = 0.026409999180188333
+lr = 0.00010499999999999999
+Overall Accuracy is: 64.99
+
+nowTime: 2023-10-20 20:17:32
+epoch = 4  loss = 0.023998068004479373
+lr = 0.00014
+Overall Accuracy is: 67.81
+
+nowTime: 2023-10-20 20:19:29
+epoch = 5  loss = 0.020907735048581524
+lr = 0.00014
+Overall Accuracy is: 68.20
+
+nowTime: 2023-10-20 20:21:27
+epoch = 6  loss = 0.018360459744717054
+lr = 0.00014
+Overall Accuracy is: 69.38
+
+nowTime: 2023-10-20 20:23:23
+epoch = 7  loss = 0.016282084542334034
+lr = 0.00014
+Overall Accuracy is: 70.08
+
+nowTime: 2023-10-20 20:25:21
+epoch = 8  loss = 0.014585956711239153
+lr = 0.00014
+Overall Accuracy is: 69.81
+
+nowTime: 2023-10-20 20:27:17
+epoch = 9  loss = 0.013127777677337344
+lr = 0.00014
+Overall Accuracy is: 70.67
+
+nowTime: 2023-10-20 20:29:15
+epoch = 10  loss = 0.01201409357710962
+lr = 0.00014
+Overall Accuracy is: 70.57
+
+nowTime: 2023-10-20 20:31:11
+epoch = 11  loss = 0.007747157366904882
+lr = 2.8e-05
+Overall Accuracy is: 73.12
+
+nowTime: 2023-10-20 20:33:08
+epoch = 12  loss = 0.005963971168365454
+lr = 2.8e-05
+Overall Accuracy is: 72.94
+
+nowTime: 2023-10-20 20:35:04
+epoch = 13  loss = 0.004775537364480984
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.90
+
+nowTime: 2023-10-20 20:37:00
+epoch = 14  loss = 0.004448070708330608
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.20
+
+nowTime: 2023-10-20 20:38:57
+epoch = 15  loss = 0.0041692800592595565
+lr = 1.12e-06
+Overall Accuracy is: 73.18
+
+Overall Accuracy is: 72.62
+
+nowTime: 2023-10-21 16:47:52
+epoch = 1  loss = 0.03084513626205725
+lr = 3.5e-05
+Overall Accuracy is: 72.25
+
+nowTime: 2023-10-21 16:50:48
+epoch = 2  loss = 0.024347031605677114
+lr = 7e-05
+Overall Accuracy is: 75.20
+
+nowTime: 2023-10-21 16:53:45
+epoch = 3  loss = 0.02112196780881605
+lr = 0.00010499999999999999
+Overall Accuracy is: 76.44
+
+nowTime: 2023-10-21 16:56:41
+epoch = 4  loss = 0.018962070565362265
+lr = 0.00014
+Overall Accuracy is: 75.49
+
+nowTime: 2023-10-21 16:59:35
+epoch = 5  loss = 0.016187350882608798
+lr = 0.00014
+Overall Accuracy is: 77.33
+
+nowTime: 2023-10-21 17:02:29
+epoch = 6  loss = 0.013959621753041374
+lr = 0.00014
+Overall Accuracy is: 77.29
+
+nowTime: 2023-10-21 17:05:27
+epoch = 7  loss = 0.012270602103739961
+lr = 0.00014
+Overall Accuracy is: 76.72
+
+nowTime: 2023-10-21 17:08:21
+epoch = 8  loss = 0.010932508943060654
+lr = 0.00014
+Overall Accuracy is: 77.52
+
+nowTime: 2023-10-21 17:11:18
+epoch = 9  loss = 0.00989827310400491
+lr = 0.00014
+Overall Accuracy is: 77.71
+
+nowTime: 2023-10-21 17:14:12
+epoch = 10  loss = 0.009066149460412799
+lr = 0.00014
+Overall Accuracy is: 77.27
+
+nowTime: 2023-10-21 17:17:09
+epoch = 11  loss = 0.005445850409484308
+lr = 2.8e-05
+Overall Accuracy is: 79.56
+
+nowTime: 2023-10-21 17:20:06
+epoch = 12  loss = 0.004037997531635398
+lr = 2.8e-05
+Overall Accuracy is: 79.42
+
+nowTime: 2023-10-21 17:23:01
+epoch = 13  loss = 0.003220410731442138
+lr = 5.600000000000001e-06
+Overall Accuracy is: 79.37
+
+nowTime: 2023-10-21 17:25:55
+epoch = 14  loss = 0.0029359837259154077
+lr = 5.600000000000001e-06
+Overall Accuracy is: 79.39
+
+nowTime: 2023-10-21 17:28:49
+epoch = 15  loss = 0.002751192127921937
+lr = 1.12e-06
+Overall Accuracy is: 79.28
+
+Overall Accuracy is: 84.07
+
+Overall Accuracy is: 84.07
+
+nowTime: 2023-10-21 20:45:18
+nowTime: 2023-10-21 20:46:40
+epoch = 1  loss = 0.03022835942107844
+lr = 3.5e-05
+Overall Accuracy is: 74.85
+
+nowTime: 2023-10-21 20:50:49
+epoch = 2  loss = 0.022869615134883933
+lr = 7e-05
+Overall Accuracy is: 77.35
+
+nowTime: 2023-10-21 20:54:57
+epoch = 3  loss = 0.019481610594269862
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.90
+
+nowTime: 2023-10-21 20:59:02
+epoch = 4  loss = 0.017141829036678446
+lr = 0.00014
+Overall Accuracy is: 76.97
+
+nowTime: 2023-10-21 21:03:06
+epoch = 5  loss = 0.014345729002835834
+lr = 0.00014
+Overall Accuracy is: 79.65
+
+nowTime: 2023-10-21 21:07:10
+epoch = 6  loss = 0.012132566253162303
+lr = 0.00014
+Overall Accuracy is: 79.55
+
+nowTime: 2023-10-21 21:11:12
+epoch = 7  loss = 0.010475625742262431
+lr = 0.00014
+Overall Accuracy is: 80.35
+
+nowTime: 2023-10-21 21:15:16
+epoch = 8  loss = 0.009155815244788767
+lr = 0.00014
+Overall Accuracy is: 80.87
+
+nowTime: 2023-10-21 21:19:20
+epoch = 9  loss = 0.008220141352403457
+lr = 0.00014
+Overall Accuracy is: 80.62
+
+nowTime: 2023-10-21 21:23:24
+epoch = 10  loss = 0.007454017348757563
+lr = 0.00014
+Overall Accuracy is: 80.22
+
+nowTime: 2023-10-21 21:27:30
+epoch = 11  loss = 0.004304719136384238
+lr = 2.8e-05
+Overall Accuracy is: 81.94
+
+nowTime: 2023-10-21 21:31:36
+epoch = 12  loss = 0.0030712556905748874
+lr = 2.8e-05
+Overall Accuracy is: 82.13
+
+nowTime: 2023-10-21 21:35:44
+epoch = 13  loss = 0.0023523019517983474
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.06
+
+nowTime: 2023-10-21 21:39:51
+epoch = 14  loss = 0.002132407804326235
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.07
+
+nowTime: 2023-10-21 21:43:59
+epoch = 15  loss = 0.0019799483960520102
+lr = 1.12e-06
+Overall Accuracy is: 82.02
+
+Overall Accuracy is: 85.98
+
+Overall Accuracy is: 76.58
+
+nowTime: 2023-10-21 21:58:43
+epoch = 1  loss = 0.02997536702188337
+lr = 3.5e-05
+Overall Accuracy is: 75.01
+
+nowTime: 2023-10-21 22:02:48
+epoch = 2  loss = 0.022884932248764166
+lr = 7e-05
+Overall Accuracy is: 78.05
+
+nowTime: 2023-10-21 22:06:53
+epoch = 3  loss = 0.019624469784481922
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.93
+
+nowTime: 2023-10-21 22:10:58
+epoch = 4  loss = 0.01728785027119068
+lr = 0.00014
+Overall Accuracy is: 78.67
+
+nowTime: 2023-10-21 22:15:04
+epoch = 5  loss = 0.014513089608760934
+lr = 0.00014
+Overall Accuracy is: 79.24
+
+nowTime: 2023-10-21 22:19:10
+epoch = 6  loss = 0.012299774047046614
+lr = 0.00014
+Overall Accuracy is: 79.28
+
+nowTime: 2023-10-21 22:23:15
+epoch = 7  loss = 0.010640097917957258
+lr = 0.00014
+Overall Accuracy is: 79.20
+
+nowTime: 2023-10-21 22:27:22
+epoch = 8  loss = 0.009526781929605453
+lr = 0.00014
+Overall Accuracy is: 80.25
+
+nowTime: 2023-10-21 22:31:31
+epoch = 9  loss = 0.008672720637476969
+lr = 0.00014
+Overall Accuracy is: 79.50
+
+nowTime: 2023-10-21 22:35:40
+epoch = 10  loss = 0.00805891070746265
+lr = 0.00014
+Overall Accuracy is: 79.86
+
+nowTime: 2023-10-21 22:39:50
+epoch = 11  loss = 0.004684470274590446
+lr = 2.8e-05
+Overall Accuracy is: 81.38
+
+nowTime: 2023-10-21 22:44:00
+epoch = 12  loss = 0.0033954571086751207
+lr = 2.8e-05
+Overall Accuracy is: 81.25
+
+nowTime: 2023-10-21 22:48:09
+epoch = 13  loss = 0.0026073928355415314
+lr = 5.600000000000001e-06
+Overall Accuracy is: 81.57
+
+nowTime: 2023-10-21 22:52:18
+epoch = 14  loss = 0.002360966358684308
+lr = 5.600000000000001e-06
+Overall Accuracy is: 81.76
+
+nowTime: 2023-10-21 22:56:29
+epoch = 15  loss = 0.0021723753687032873
+lr = 1.12e-06
+Overall Accuracy is: 81.79
+
+Overall Accuracy is: 75.96
+
+Overall Accuracy is: 85.33
+
+nowTime: 2023-10-22 15:58:23
+nowTime: 2023-10-22 15:59:21
+epoch = 1  loss = 0.028916613203760103
+lr = 3.5e-05
+Overall Accuracy is: 74.22
+
+nowTime: 2023-10-22 16:03:29
+epoch = 2  loss = 0.023097225546939673
+lr = 7e-05
+Overall Accuracy is: 76.88
+
+nowTime: 2023-10-22 16:07:37
+epoch = 3  loss = 0.020119303330727666
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.20
+
+nowTime: 2023-10-22 16:11:44
+epoch = 4  loss = 0.017938124854315365
+lr = 0.00014
+Overall Accuracy is: 78.60
+
+nowTime: 2023-10-22 16:15:51
+epoch = 5  loss = 0.01523789655142355
+lr = 0.00014
+Overall Accuracy is: 79.91
+
+nowTime: 2023-10-22 16:19:58
+epoch = 6  loss = 0.013083671140553718
+lr = 0.00014
+Overall Accuracy is: 79.80
+
+nowTime: 2023-10-22 16:24:04
+epoch = 7  loss = 0.011349901235405347
+lr = 0.00014
+Overall Accuracy is: 80.16
+
+nowTime: 2023-10-22 16:28:10
+epoch = 8  loss = 0.01003454550814018
+lr = 0.00014
+Overall Accuracy is: 80.80
+
+nowTime: 2023-10-22 16:32:17
+epoch = 9  loss = 0.009038870949535423
+lr = 0.00014
+Overall Accuracy is: 80.37
+
+nowTime: 2023-10-22 16:36:25
+epoch = 10  loss = 0.0082376525661218
+lr = 0.00014
+Overall Accuracy is: 79.93
+
+nowTime: 2023-10-22 16:40:35
+epoch = 11  loss = 0.0048643688614689795
+lr = 2.8e-05
+Overall Accuracy is: 82.33
+
+nowTime: 2023-10-22 16:44:44
+epoch = 12  loss = 0.0035485343642052336
+lr = 2.8e-05
+Overall Accuracy is: 81.88
+
+nowTime: 2023-10-22 16:48:51
+epoch = 13  loss = 0.0027604895536248986
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.46
+
+nowTime: 2023-10-22 16:52:59
+epoch = 14  loss = 0.002507920982266703
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.58
+
+nowTime: 2023-10-22 16:57:07
+epoch = 15  loss = 0.0023336921687061936
+lr = 1.12e-06
+Overall Accuracy is: 82.49
+
+Overall Accuracy is: 85.49
+
+Overall Accuracy is: 76.98
+
+nowTime: 2023-10-22 17:08:42
+epoch = 1  loss = 0.03341165716180823
+lr = 3.5e-05
+Overall Accuracy is: 60.40
+
+nowTime: 2023-10-22 17:12:47
+epoch = 2  loss = 0.027880914885397914
+lr = 7e-05
+Overall Accuracy is: 64.97
+
+nowTime: 2023-10-22 17:16:54
+epoch = 3  loss = 0.02486803388986171
+lr = 0.00010499999999999999
+Overall Accuracy is: 65.96
+
+nowTime: 2023-10-22 17:21:00
+epoch = 4  loss = 0.022553499109276953
+lr = 0.00014
+Overall Accuracy is: 67.78
+
+nowTime: 2023-10-22 17:25:07
+epoch = 5  loss = 0.01947888364190743
+lr = 0.00014
+Overall Accuracy is: 68.81
+
+nowTime: 2023-10-22 17:29:15
+epoch = 6  loss = 0.016826596025716897
+lr = 0.00014
+Overall Accuracy is: 68.75
+
+nowTime: 2023-10-22 17:33:24
+epoch = 7  loss = 0.014769364425740823
+lr = 0.00014
+Overall Accuracy is: 69.25
+
+nowTime: 2023-10-22 17:37:34
+epoch = 8  loss = 0.013121199870524758
+lr = 0.00014
+Overall Accuracy is: 70.21
+
+nowTime: 2023-10-22 17:41:44
+epoch = 9  loss = 0.011785373671975664
+lr = 0.00014
+Overall Accuracy is: 70.54
+
+nowTime: 2023-10-22 17:45:51
+epoch = 10  loss = 0.010697848877542566
+lr = 0.00014
+Overall Accuracy is: 70.94
+
+nowTime: 2023-10-22 17:49:58
+epoch = 11  loss = 0.006493802968567445
+lr = 2.8e-05
+Overall Accuracy is: 72.67
+
+nowTime: 2023-10-22 17:54:04
+epoch = 12  loss = 0.0047496044762694554
+lr = 2.8e-05
+Overall Accuracy is: 72.82
+
+nowTime: 2023-10-22 17:58:11
+epoch = 13  loss = 0.0036277567474573423
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.72
+
+nowTime: 2023-10-22 18:02:16
+epoch = 14  loss = 0.0032800962248163124
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.97
+
+nowTime: 2023-10-22 18:06:22
+epoch = 15  loss = 0.003032089497836492
+lr = 1.12e-06
+Overall Accuracy is: 72.98
+
+Overall Accuracy is: 63.06
+
+Overall Accuracy is: 78.78
+
+nowTime: 2023-10-23 21:53:01
+epoch = 1  loss = 0.03320968529277967
+lr = 3.5e-05
+Overall Accuracy is: 61.02
+
+nowTime: 2023-10-23 21:57:10
+epoch = 2  loss = 0.027819016738956003
+lr = 7e-05
+Overall Accuracy is: 64.45
+
+nowTime: 2023-10-23 22:01:19
+epoch = 3  loss = 0.024883090552651126
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.26
+
+nowTime: 2023-10-23 22:05:31
+epoch = 4  loss = 0.022458383042442714
+lr = 0.00014
+Overall Accuracy is: 67.82
+
+nowTime: 2023-10-23 22:09:45
+epoch = 5  loss = 0.019418881051480517
+lr = 0.00014
+Overall Accuracy is: 68.78
+
+nowTime: 2023-10-23 22:13:58
+epoch = 6  loss = 0.017001827927698273
+lr = 0.00014
+Overall Accuracy is: 68.94
+
+nowTime: 2023-10-23 22:18:12
+epoch = 7  loss = 0.015168877747693816
+lr = 0.00014
+Overall Accuracy is: 68.99
+
+nowTime: 2023-10-23 22:22:24
+epoch = 8  loss = 0.013613325688088899
+lr = 0.00014
+Overall Accuracy is: 69.57
+
+nowTime: 2023-10-23 22:26:36
+epoch = 9  loss = 0.012397680464848185
+lr = 0.00014
+Overall Accuracy is: 69.01
+
+nowTime: 2023-10-23 22:30:47
+epoch = 10  loss = 0.01166169592176877
+lr = 0.00014
+Overall Accuracy is: 69.41
+
+nowTime: 2023-10-23 22:34:59
+epoch = 11  loss = 0.0072698492396049315
+lr = 2.8e-05
+Overall Accuracy is: 71.42
+
+nowTime: 2023-10-23 22:39:10
+epoch = 12  loss = 0.005535772110354879
+lr = 2.8e-05
+Overall Accuracy is: 71.46
+
+nowTime: 2023-10-23 22:43:22
+epoch = 13  loss = 0.004219079147538068
+lr = 5.600000000000001e-06
+Overall Accuracy is: 71.51
+
+nowTime: 2023-10-23 22:47:36
+epoch = 14  loss = 0.003865672555887555
+lr = 5.600000000000001e-06
+Overall Accuracy is: 71.54
+
+nowTime: 2023-10-23 22:51:49
+epoch = 15  loss = 0.00358314945592734
+lr = 1.12e-06
+Overall Accuracy is: 71.56
+
+nowTime: 2023-10-25 20:45:20
+epoch = 1  loss = 0.033310459386884816
+lr = 3.5e-05
+Overall Accuracy is: 60.49
+
+nowTime: 2023-10-25 20:49:29
+epoch = 2  loss = 0.027937216265449576
+lr = 7e-05
+Overall Accuracy is: 64.05
+
+nowTime: 2023-10-25 20:53:38
+epoch = 3  loss = 0.025025293740087134
+lr = 0.00010499999999999999
+Overall Accuracy is: 65.76
+
+nowTime: 2023-10-25 20:57:48
+epoch = 4  loss = 0.022496155389228844
+lr = 0.00014
+Overall Accuracy is: 67.25
+
+nowTime: 2023-10-25 21:02:03
+epoch = 5  loss = 0.01938409064477136
+lr = 0.00014
+Overall Accuracy is: 69.23
+
+nowTime: 2023-10-25 21:06:17
+epoch = 6  loss = 0.01684064487591743
+lr = 0.00014
+Overall Accuracy is: 68.18
+
+nowTime: 2023-10-25 21:10:31
+epoch = 7  loss = 0.014866377765359432
+lr = 0.00014
+Overall Accuracy is: 68.67
+
+nowTime: 2023-10-25 21:14:46
+epoch = 8  loss = 0.013377657187452612
+lr = 0.00014
+Overall Accuracy is: 68.70
+
+nowTime: 2023-10-25 21:19:00
+epoch = 9  loss = 0.012275805243836257
+lr = 0.00014
+Overall Accuracy is: 69.07
+
+nowTime: 2023-10-25 21:23:14
+epoch = 10  loss = 0.01127233234351748
+lr = 0.00014
+Overall Accuracy is: 69.07
+
+nowTime: 2023-10-25 21:27:29
+epoch = 11  loss = 0.006936368704155747
+lr = 2.8e-05
+Overall Accuracy is: 71.53
+
+nowTime: 2023-10-25 21:31:43
+epoch = 12  loss = 0.0052068116386224045
+lr = 2.8e-05
+Overall Accuracy is: 71.54
+
+nowTime: 2023-10-25 21:35:57
+epoch = 13  loss = 0.003938360763296929
+lr = 5.600000000000001e-06
+Overall Accuracy is: 71.66
+
+nowTime: 2023-10-25 21:40:09
+epoch = 14  loss = 0.0035656315978362433
+lr = 5.600000000000001e-06
+Overall Accuracy is: 71.84
+
+nowTime: 2023-10-25 21:44:22
+epoch = 15  loss = 0.00328519733185539
+lr = 1.12e-06
+Overall Accuracy is: 71.77
+
+nowTime: 2023-10-27 23:00:18
+epoch = 1  loss = 0.03327860203102731
+lr = 3.5e-05
+Overall Accuracy is: 60.22
+
+nowTime: 2023-10-27 23:04:26
+epoch = 2  loss = 0.027949405332940908
+lr = 7e-05
+Overall Accuracy is: 64.29
+
+nowTime: 2023-10-27 23:08:34
+epoch = 3  loss = 0.025029329657475237
+lr = 0.00010499999999999999
+Overall Accuracy is: 65.99
+
+nowTime: 2023-10-27 23:12:43
+epoch = 4  loss = 0.022539794664347686
+lr = 0.00014
+Overall Accuracy is: 67.23
+
+nowTime: 2023-10-27 23:16:50
+epoch = 5  loss = 0.019470360733917978
+lr = 0.00014
+Overall Accuracy is: 68.71
+
+nowTime: 2023-10-27 23:20:56
+epoch = 6  loss = 0.016919489838798183
+lr = 0.00014
+Overall Accuracy is: 68.99
+
+nowTime: 2023-10-27 23:25:03
+epoch = 7  loss = 0.014936174272986791
+lr = 0.00014
+Overall Accuracy is: 69.27
+
+nowTime: 2023-10-27 23:29:10
+epoch = 8  loss = 0.0133166341068889
+lr = 0.00014
+Overall Accuracy is: 69.00
+
+nowTime: 2023-10-27 23:33:18
+epoch = 9  loss = 0.012095707591243988
+lr = 0.00014
+Overall Accuracy is: 69.63
+
+nowTime: 2023-10-27 23:37:24
+epoch = 10  loss = 0.011047629917861143
+lr = 0.00014
+Overall Accuracy is: 70.32
+
+nowTime: 2023-10-27 23:41:31
+epoch = 11  loss = 0.006762674742228946
+lr = 2.8e-05
+Overall Accuracy is: 72.49
+
+nowTime: 2023-10-27 23:45:37
+epoch = 12  loss = 0.005054830425886807
+lr = 2.8e-05
+Overall Accuracy is: 72.41
+
+nowTime: 2023-10-27 23:49:45
+epoch = 13  loss = 0.0038320241018645483
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.72
+
+nowTime: 2023-10-27 23:53:51
+epoch = 14  loss = 0.0034704365240103333
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.65
+
+nowTime: 2023-10-27 23:57:58
+epoch = 15  loss = 0.003197119473459841
+lr = 1.12e-06
+Overall Accuracy is: 72.69
+
+nowTime: 2023-11-03 20:47:55
+epoch = 1  loss = 0.03317209835212378
+lr = 3.5e-05
+Overall Accuracy is: 60.47
+
+nowTime: 2023-11-03 20:51:59
+epoch = 2  loss = 0.027820625926427974
+lr = 7e-05
+Overall Accuracy is: 64.58
+
+nowTime: 2023-11-03 20:56:05
+epoch = 3  loss = 0.024802861461335507
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.63
+
+nowTime: 2023-11-03 21:00:10
+epoch = 4  loss = 0.022318434292727413
+lr = 0.00014
+Overall Accuracy is: 66.65
+
+nowTime: 2023-11-03 21:04:15
+epoch = 5  loss = 0.01924612978150791
+lr = 0.00014
+Overall Accuracy is: 68.40
+
+nowTime: 2023-11-03 21:08:20
+epoch = 6  loss = 0.016746274263587605
+lr = 0.00014
+Overall Accuracy is: 68.43
+
+nowTime: 2023-11-03 21:12:25
+epoch = 7  loss = 0.014788545491486454
+lr = 0.00014
+Overall Accuracy is: 69.87
+
+nowTime: 2023-11-03 21:16:30
+epoch = 8  loss = 0.013181627326142331
+lr = 0.00014
+Overall Accuracy is: 68.60
+
+nowTime: 2023-11-03 21:20:36
+epoch = 9  loss = 0.011917714062050088
+lr = 0.00014
+Overall Accuracy is: 70.07
+
+nowTime: 2023-11-03 21:24:41
+epoch = 10  loss = 0.010943141662191697
+lr = 0.00014
+Overall Accuracy is: 69.90
+
+nowTime: 2023-11-03 21:28:46
+epoch = 11  loss = 0.006647862286714278
+lr = 2.8e-05
+Overall Accuracy is: 72.35
+
+nowTime: 2023-11-03 21:32:52
+epoch = 12  loss = 0.004962433756467552
+lr = 2.8e-05
+Overall Accuracy is: 72.24
+
+nowTime: 2023-11-03 21:36:57
+epoch = 13  loss = 0.003730857692962561
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.47
+
+nowTime: 2023-11-03 21:41:02
+epoch = 14  loss = 0.003387318361033554
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.36
+
+nowTime: 2023-11-03 21:45:07
+epoch = 15  loss = 0.003126735918841101
+lr = 1.12e-06
+Overall Accuracy is: 72.33
+
+Overall Accuracy is: 79.58
+
+Overall Accuracy is: 63.39
+
+nowTime: 2023-11-03 22:16:23
+nowTime: 2023-11-03 22:17:50
+epoch = 1  loss = 0.034464186010067906
+lr = 3.5e-05
+Overall Accuracy is: 56.82
+
+nowTime: 2023-11-03 22:20:34
+epoch = 2  loss = 0.028937630821759732
+lr = 7e-05
+Overall Accuracy is: 64.38
+
+nowTime: 2023-11-03 22:23:18
+epoch = 3  loss = 0.02624168895356748
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.65
+
+nowTime: 2023-11-03 22:26:02
+epoch = 4  loss = 0.024041745910903703
+lr = 0.00014
+Overall Accuracy is: 68.14
+
+nowTime: 2023-11-03 22:28:47
+epoch = 5  loss = 0.02112819122991544
+lr = 0.00014
+Overall Accuracy is: 69.14
+
+nowTime: 2023-11-03 22:31:31
+epoch = 6  loss = 0.01860874457305537
+lr = 0.00014
+Overall Accuracy is: 69.53
+
+nowTime: 2023-11-03 22:34:16
+epoch = 7  loss = 0.016456253170694664
+lr = 0.00014
+Overall Accuracy is: 68.79
+
+nowTime: 2023-11-03 22:37:00
+epoch = 8  loss = 0.014762850024475345
+lr = 0.00014
+Overall Accuracy is: 70.61
+
+nowTime: 2023-11-03 22:39:44
+epoch = 9  loss = 0.013404237389244697
+lr = 0.00014
+Overall Accuracy is: 70.53
+
+nowTime: 2023-11-03 22:42:29
+epoch = 10  loss = 0.012254150392597212
+lr = 0.00014
+Overall Accuracy is: 69.85
+
+nowTime: 2023-11-03 22:45:13
+epoch = 11  loss = 0.007965378982232608
+lr = 2.8e-05
+Overall Accuracy is: 72.63
+
+nowTime: 2023-11-03 22:47:57
+epoch = 12  loss = 0.006205436578523871
+lr = 2.8e-05
+Overall Accuracy is: 72.12
+
+nowTime: 2023-11-03 22:50:42
+epoch = 13  loss = 0.004917816992438974
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.73
+
+nowTime: 2023-11-03 22:53:26
+epoch = 14  loss = 0.004535940211467646
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.75
+
+nowTime: 2023-11-03 22:56:11
+epoch = 15  loss = 0.0042232636603658546
+lr = 1.12e-06
+Overall Accuracy is: 72.90
+
+Overall Accuracy is: 73.42
+
+nowTime: 2023-11-04 09:19:22
+epoch = 1  loss = 0.028882534002920814
+lr = 3.5e-05
+Overall Accuracy is: 74.16
+
+nowTime: 2023-11-04 09:23:28
+epoch = 2  loss = 0.023261493372467926
+lr = 7e-05
+Overall Accuracy is: 76.89
+
+nowTime: 2023-11-04 09:27:35
+epoch = 3  loss = 0.020336567158781134
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.60
+
+nowTime: 2023-11-04 09:31:41
+epoch = 4  loss = 0.018090905886610095
+lr = 0.00014
+Overall Accuracy is: 78.54
+
+nowTime: 2023-11-04 09:35:47
+epoch = 5  loss = 0.015449321591502922
+lr = 0.00014
+Overall Accuracy is: 79.51
+
+nowTime: 2023-11-04 09:39:53
+epoch = 6  loss = 0.013331421519453674
+lr = 0.00014
+Overall Accuracy is: 79.72
+
+nowTime: 2023-11-04 09:43:59
+epoch = 7  loss = 0.011655759256908515
+lr = 0.00014
+Overall Accuracy is: 79.49
+
+nowTime: 2023-11-04 09:48:05
+epoch = 8  loss = 0.01034873533838739
+lr = 0.00014
+Overall Accuracy is: 79.89
+
+nowTime: 2023-11-04 09:52:12
+epoch = 9  loss = 0.00931557346725611
+lr = 0.00014
+Overall Accuracy is: 80.34
+
+nowTime: 2023-11-04 09:56:18
+epoch = 10  loss = 0.00859200358099152
+lr = 0.00014
+Overall Accuracy is: 80.12
+
+nowTime: 2023-11-04 10:00:24
+epoch = 11  loss = 0.005101482658632171
+lr = 2.8e-05
+Overall Accuracy is: 82.43
+
+nowTime: 2023-11-04 10:04:30
+epoch = 12  loss = 0.003756634901661323
+lr = 2.8e-05
+Overall Accuracy is: 81.93
+
+nowTime: 2023-11-04 10:08:36
+epoch = 13  loss = 0.002914522851386252
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.05
+
+nowTime: 2023-11-04 10:12:42
+epoch = 14  loss = 0.00264717233127513
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.09
+
+nowTime: 2023-11-04 10:16:48
+epoch = 15  loss = 0.0024549172675353724
+lr = 1.12e-06
+Overall Accuracy is: 82.01
+
+Overall Accuracy is: 85.42
+
+Overall Accuracy is: 75.72
+
+nowTime: 2023-11-04 10:41:52
+epoch = 1  loss = 0.03335489349545922
+lr = 3.5e-05
+Overall Accuracy is: 60.18
+
+nowTime: 2023-11-04 10:45:54
+epoch = 2  loss = 0.02805256468953925
+lr = 7e-05
+Overall Accuracy is: 63.93
+
+nowTime: 2023-11-04 10:49:55
+epoch = 3  loss = 0.025097695726565877
+lr = 0.00010499999999999999
+Overall Accuracy is: 65.88
+
+nowTime: 2023-11-04 10:53:57
+epoch = 4  loss = 0.022504564172741607
+lr = 0.00014
+Overall Accuracy is: 67.26
+
+nowTime: 2023-11-04 10:57:59
+epoch = 5  loss = 0.01934905235442746
+lr = 0.00014
+Overall Accuracy is: 69.32
+
+nowTime: 2023-11-04 11:02:01
+epoch = 6  loss = 0.016762532946268137
+lr = 0.00014
+Overall Accuracy is: 68.97
+
+nowTime: 2023-11-04 11:06:03
+epoch = 7  loss = 0.014754495472331186
+lr = 0.00014
+Overall Accuracy is: 69.90
+
+nowTime: 2023-11-04 11:10:05
+epoch = 8  loss = 0.013098785328218832
+lr = 0.00014
+Overall Accuracy is: 70.27
+
+nowTime: 2023-11-04 11:14:07
+epoch = 9  loss = 0.011740027077408725
+lr = 0.00014
+Overall Accuracy is: 69.92
+
+nowTime: 2023-11-04 11:18:09
+epoch = 10  loss = 0.010681677211748836
+lr = 0.00014
+Overall Accuracy is: 70.35
+
+nowTime: 2023-11-04 11:22:11
+epoch = 11  loss = 0.006425178545781699
+lr = 2.8e-05
+Overall Accuracy is: 72.70
+
+nowTime: 2023-11-04 11:26:14
+epoch = 12  loss = 0.004716814942677795
+lr = 2.8e-05
+Overall Accuracy is: 72.76
+
+nowTime: 2023-11-04 11:30:16
+epoch = 13  loss = 0.003589140016463529
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.76
+
+nowTime: 2023-11-04 11:34:19
+epoch = 14  loss = 0.003245757516626354
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.95
+
+nowTime: 2023-11-04 11:38:21
+epoch = 15  loss = 0.003007136915696782
+lr = 1.12e-06
+Overall Accuracy is: 72.90
+
+Overall Accuracy is: 63.78
+
+Overall Accuracy is: 78.55
+
+nowTime: 2023-11-04 15:16:32
+epoch = 1  loss = 0.034526612326822616
+lr = 3.5e-05
+Overall Accuracy is: 58.35
+
+nowTime: 2023-11-04 15:19:14
+epoch = 2  loss = 0.028921290360012095
+lr = 7e-05
+Overall Accuracy is: 64.48
+
+nowTime: 2023-11-04 15:21:56
+epoch = 3  loss = 0.026063167358288137
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.83
+
+nowTime: 2023-11-04 15:24:39
+epoch = 4  loss = 0.023775029390019815
+lr = 0.00014
+Overall Accuracy is: 68.77
+
+nowTime: 2023-11-04 15:27:21
+epoch = 5  loss = 0.02075129739839483
+lr = 0.00014
+Overall Accuracy is: 70.06
+
+nowTime: 2023-11-04 15:30:04
+epoch = 6  loss = 0.018071483259514236
+lr = 0.00014
+Overall Accuracy is: 70.57
+
+nowTime: 2023-11-04 15:32:46
+epoch = 7  loss = 0.015847876009091568
+lr = 0.00014
+Overall Accuracy is: 70.83
+
+nowTime: 2023-11-04 15:35:29
+epoch = 8  loss = 0.014009080679172174
+lr = 0.00014
+Overall Accuracy is: 70.94
+
+nowTime: 2023-11-04 15:38:12
+epoch = 9  loss = 0.012558482247530608
+lr = 0.00014
+Overall Accuracy is: 71.67
+
+nowTime: 2023-11-04 15:40:55
+epoch = 10  loss = 0.011299372507801164
+lr = 0.00014
+Overall Accuracy is: 71.38
+
+nowTime: 2023-11-04 15:43:37
+epoch = 11  loss = 0.007114214270741387
+lr = 2.8e-05
+Overall Accuracy is: 73.18
+
+nowTime: 2023-11-04 15:46:20
+epoch = 12  loss = 0.005383001825704116
+lr = 2.8e-05
+Overall Accuracy is: 73.18
+
+nowTime: 2023-11-04 15:49:03
+epoch = 13  loss = 0.004276240324647431
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.47
+
+nowTime: 2023-11-04 15:51:45
+epoch = 14  loss = 0.0039237343046565456
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.75
+
+nowTime: 2023-11-04 15:54:28
+epoch = 15  loss = 0.003679625118456319
+lr = 1.12e-06
+Overall Accuracy is: 73.67
+
+Overall Accuracy is: 74.12
+
+nowTime: 2023-11-04 21:17:25
+epoch = 1  loss = 0.034464469940560044
+lr = 3.5e-05
+Overall Accuracy is: 57.29
+
+nowTime: 2023-11-04 21:20:08
+epoch = 2  loss = 0.029038590220630833
+lr = 7e-05
+Overall Accuracy is: 64.03
+
+nowTime: 2023-11-04 21:22:51
+epoch = 3  loss = 0.026273721577347937
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.65
+
+nowTime: 2023-11-04 21:25:34
+epoch = 4  loss = 0.02406509836694442
+lr = 0.00014
+Overall Accuracy is: 68.32
+
+nowTime: 2023-11-04 21:28:17
+epoch = 5  loss = 0.0210577470327421
+lr = 0.00014
+Overall Accuracy is: 68.81
+
+nowTime: 2023-11-04 21:31:00
+epoch = 6  loss = 0.018408403986552656
+lr = 0.00014
+Overall Accuracy is: 70.49
+
+nowTime: 2023-11-04 21:33:44
+epoch = 7  loss = 0.016242172500927042
+lr = 0.00014
+Overall Accuracy is: 70.08
+
+nowTime: 2023-11-04 21:36:27
+epoch = 8  loss = 0.01447308501998623
+lr = 0.00014
+Overall Accuracy is: 70.73
+
+nowTime: 2023-11-04 21:39:10
+epoch = 9  loss = 0.013042468410311045
+lr = 0.00014
+Overall Accuracy is: 70.36
+
+nowTime: 2023-11-04 21:41:53
+epoch = 10  loss = 0.011768846202564732
+lr = 0.00014
+Overall Accuracy is: 71.18
+
+nowTime: 2023-11-04 21:44:36
+epoch = 11  loss = 0.007522085011938205
+lr = 2.8e-05
+Overall Accuracy is: 72.69
+
+nowTime: 2023-11-04 21:47:20
+epoch = 12  loss = 0.005793392958618487
+lr = 2.8e-05
+Overall Accuracy is: 73.12
+
+nowTime: 2023-11-04 21:50:03
+epoch = 13  loss = 0.004559942408811319
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.20
+
+nowTime: 2023-11-04 21:52:46
+epoch = 14  loss = 0.004222458308423456
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.94
+
+nowTime: 2023-11-04 21:55:30
+epoch = 15  loss = 0.0039588935052848676
+lr = 1.12e-06
+Overall Accuracy is: 73.37
+
+Overall Accuracy is: 73.73
+
+nowTime: 2023-11-07 08:34:11
+nowTime: 2023-11-07 08:35:51
+epoch = 1  loss = 0.034281479969135054
+lr = 3.5e-05
+Overall Accuracy is: 56.60
+
+nowTime: 2023-11-07 08:38:45
+epoch = 2  loss = 0.02884782530776031
+lr = 7e-05
+Overall Accuracy is: 64.40
+
+nowTime: 2023-11-07 08:41:39
+epoch = 3  loss = 0.026016698480955367
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.16
+
+nowTime: 2023-11-07 08:44:34
+epoch = 4  loss = 0.023836410164667237
+lr = 0.00014
+Overall Accuracy is: 69.14
+
+nowTime: 2023-11-07 08:47:28
+epoch = 5  loss = 0.02105496678388839
+lr = 0.00014
+Overall Accuracy is: 70.45
+
+nowTime: 2023-11-07 08:50:23
+epoch = 6  loss = 0.0184873120321793
+lr = 0.00014
+Overall Accuracy is: 71.41
+
+nowTime: 2023-11-07 08:53:17
+epoch = 7  loss = 0.0162473669577692
+lr = 0.00014
+Overall Accuracy is: 71.53
+
+nowTime: 2023-11-07 08:56:11
+epoch = 8  loss = 0.014434970069131763
+lr = 0.00014
+Overall Accuracy is: 71.18
+
+nowTime: 2023-11-07 08:59:05
+epoch = 9  loss = 0.012892152878658665
+lr = 0.00014
+Overall Accuracy is: 71.51
+
+nowTime: 2023-11-07 09:01:59
+epoch = 10  loss = 0.011600485341756683
+lr = 0.00014
+Overall Accuracy is: 71.69
+
+nowTime: 2023-11-07 09:04:53
+epoch = 11  loss = 0.007395522224025383
+lr = 2.8e-05
+Overall Accuracy is: 73.33
+
+nowTime: 2023-11-07 09:07:47
+epoch = 12  loss = 0.0057658938417471765
+lr = 2.8e-05
+Overall Accuracy is: 73.90
+
+nowTime: 2023-11-07 09:10:41
+epoch = 13  loss = 0.004631856352384002
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.67
+
+nowTime: 2023-11-07 09:13:36
+epoch = 14  loss = 0.004316070280667092
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.77
+
+nowTime: 2023-11-07 09:16:31
+epoch = 15  loss = 0.0040683228154600095
+lr = 1.12e-06
+Overall Accuracy is: 73.67
+
+Overall Accuracy is: 74.28
+
+nowTime: 2023-11-07 14:40:02
+nowTime: 2023-11-07 14:42:19
+epoch = 1  loss = 0.033141908064667186
+lr = 3.5e-05
+Overall Accuracy is: 61.12
+
+nowTime: 2023-11-07 14:46:38
+epoch = 2  loss = 0.027918885152868344
+lr = 7e-05
+Overall Accuracy is: 64.45
+
+nowTime: 2023-11-07 14:50:58
+epoch = 3  loss = 0.025075338625080674
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.20
+
+nowTime: 2023-11-07 14:55:18
+epoch = 4  loss = 0.022681997074771892
+lr = 0.00014
+Overall Accuracy is: 67.74
+
+nowTime: 2023-11-07 14:59:38
+epoch = 5  loss = 0.019654270754228993
+lr = 0.00014
+Overall Accuracy is: 69.47
+
+nowTime: 2023-11-07 15:03:59
+epoch = 6  loss = 0.016950240296192097
+lr = 0.00014
+Overall Accuracy is: 69.33
+
+nowTime: 2023-11-07 15:08:18
+epoch = 7  loss = 0.014752049995392768
+lr = 0.00014
+Overall Accuracy is: 69.81
+
+nowTime: 2023-11-07 15:12:39
+epoch = 8  loss = 0.012913638194472185
+lr = 0.00014
+Overall Accuracy is: 69.69
+
+nowTime: 2023-11-07 15:16:59
+epoch = 9  loss = 0.011399365388964425
+lr = 0.00014
+Overall Accuracy is: 70.78
+
+nowTime: 2023-11-07 15:21:19
+epoch = 10  loss = 0.010238824745160852
+lr = 0.00014
+Overall Accuracy is: 71.44
+
+nowTime: 2023-11-07 15:25:38
+epoch = 11  loss = 0.006106557651508756
+lr = 2.8e-05
+Overall Accuracy is: 72.81
+
+nowTime: 2023-11-07 15:29:57
+epoch = 12  loss = 0.004529693659983444
+lr = 2.8e-05
+Overall Accuracy is: 72.92
+
+nowTime: 2023-11-07 15:34:16
+epoch = 13  loss = 0.003486076930064468
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.60
+
+nowTime: 2023-11-07 15:38:35
+epoch = 14  loss = 0.0031811555145560434
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.63
+
+nowTime: 2023-11-07 15:42:55
+epoch = 15  loss = 0.002965567265346956
+lr = 1.12e-06
+Overall Accuracy is: 72.51
+
+Overall Accuracy is: 78.66
+
+Overall Accuracy is: 63.47
+
+nowTime: 2023-11-07 16:56:57
+epoch = 1  loss = 0.028811020285262865
+lr = 3.5e-05
+Overall Accuracy is: 74.64
+
+nowTime: 2023-11-07 17:01:19
+epoch = 2  loss = 0.02316296209765088
+lr = 7e-05
+Overall Accuracy is: 78.23
+
+nowTime: 2023-11-07 17:05:42
+epoch = 3  loss = 0.020246762303821348
+lr = 0.00010499999999999999
+Overall Accuracy is: 79.44
+
+nowTime: 2023-11-07 17:10:04
+epoch = 4  loss = 0.01821682188262463
+lr = 0.00014
+Overall Accuracy is: 79.19
+
+nowTime: 2023-11-07 17:14:24
+epoch = 5  loss = 0.01568470598542529
+lr = 0.00014
+Overall Accuracy is: 79.90
+
+nowTime: 2023-11-07 17:18:44
+epoch = 6  loss = 0.013514560267167075
+lr = 0.00014
+Overall Accuracy is: 81.00
+
+nowTime: 2023-11-07 17:23:04
+epoch = 7  loss = 0.011648300094945226
+lr = 0.00014
+Overall Accuracy is: 81.28
+
+nowTime: 2023-11-07 17:27:24
+epoch = 8  loss = 0.010156405224828663
+lr = 0.00014
+Overall Accuracy is: 80.50
+
+nowTime: 2023-11-07 17:31:43
+epoch = 9  loss = 0.008997091152230692
+lr = 0.00014
+Overall Accuracy is: 80.71
+
+nowTime: 2023-11-07 17:36:03
+epoch = 10  loss = 0.00804920644314481
+lr = 0.00014
+Overall Accuracy is: 81.20
+
+nowTime: 2023-11-07 17:40:23
+epoch = 11  loss = 0.004757802659594266
+lr = 2.8e-05
+Overall Accuracy is: 82.40
+
+nowTime: 2023-11-07 17:44:43
+epoch = 12  loss = 0.00352673671695734
+lr = 2.8e-05
+Overall Accuracy is: 82.58
+
+nowTime: 2023-11-07 17:49:02
+epoch = 13  loss = 0.002794431913258496
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.83
+
+nowTime: 2023-11-07 17:53:21
+epoch = 14  loss = 0.002563478972618478
+lr = 5.600000000000001e-06
+Overall Accuracy is: 83.12
+
+nowTime: 2023-11-07 17:57:40
+epoch = 15  loss = 0.0024044823299795826
+lr = 1.12e-06
+Overall Accuracy is: 83.01
+
+Overall Accuracy is: 76.00
+
+Overall Accuracy is: 85.82
+
+nowTime: 2023-11-07 19:10:51
+epoch = 1  loss = 0.02870579482394324
+lr = 3.5e-05
+Overall Accuracy is: 74.33
+
+nowTime: 2023-11-07 19:15:08
+epoch = 2  loss = 0.023001955499805337
+lr = 7e-05
+Overall Accuracy is: 77.22
+
+nowTime: 2023-11-07 19:19:24
+epoch = 3  loss = 0.020042362179500377
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.53
+
+nowTime: 2023-11-07 19:23:41
+epoch = 4  loss = 0.01795941105235028
+lr = 0.00014
+Overall Accuracy is: 78.33
+
+nowTime: 2023-11-07 19:27:58
+epoch = 5  loss = 0.015276130189478493
+lr = 0.00014
+Overall Accuracy is: 79.91
+
+nowTime: 2023-11-07 19:32:14
+epoch = 6  loss = 0.013063982292226736
+lr = 0.00014
+Overall Accuracy is: 79.89
+
+nowTime: 2023-11-07 19:36:31
+epoch = 7  loss = 0.011315881669859456
+lr = 0.00014
+Overall Accuracy is: 80.00
+
+nowTime: 2023-11-07 19:40:50
+epoch = 8  loss = 0.009897941690592804
+lr = 0.00014
+Overall Accuracy is: 80.58
+
+nowTime: 2023-11-07 19:45:10
+epoch = 9  loss = 0.008767152490833825
+lr = 0.00014
+Overall Accuracy is: 80.02
+
+nowTime: 2023-11-07 19:49:31
+epoch = 10  loss = 0.007919238833315086
+lr = 0.00014
+Overall Accuracy is: 80.56
+
+nowTime: 2023-11-07 19:53:52
+epoch = 11  loss = 0.004652480136938275
+lr = 2.8e-05
+Overall Accuracy is: 81.95
+
+nowTime: 2023-11-07 19:58:12
+epoch = 12  loss = 0.0034421392927300224
+lr = 2.8e-05
+Overall Accuracy is: 82.62
+
+nowTime: 2023-11-07 20:02:32
+epoch = 13  loss = 0.0026809495617067065
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.81
+
+nowTime: 2023-11-07 20:06:52
+epoch = 14  loss = 0.002449144265773131
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.81
+
+nowTime: 2023-11-07 20:11:13
+epoch = 15  loss = 0.0022936456366773345
+lr = 1.12e-06
+Overall Accuracy is: 82.81
+
+Overall Accuracy is: 85.95
+
+Overall Accuracy is: 76.84
+
+nowTime: 2023-11-07 20:31:20
+epoch = 1  loss = 0.03306992562089788
+lr = 3.5e-05
+Overall Accuracy is: 60.95
+
+nowTime: 2023-11-07 20:35:38
+epoch = 2  loss = 0.02776979236552451
+lr = 7e-05
+Overall Accuracy is: 64.53
+
+nowTime: 2023-11-07 20:39:55
+epoch = 3  loss = 0.024903530450453452
+lr = 0.00010499999999999999
+Overall Accuracy is: 65.80
+
+nowTime: 2023-11-07 20:44:14
+epoch = 4  loss = 0.02253229179720756
+lr = 0.00014
+Overall Accuracy is: 67.20
+
+nowTime: 2023-11-07 20:48:32
+epoch = 5  loss = 0.019407063213533776
+lr = 0.00014
+Overall Accuracy is: 68.81
+
+nowTime: 2023-11-07 20:52:49
+epoch = 6  loss = 0.016782096551892983
+lr = 0.00014
+Overall Accuracy is: 69.01
+
+nowTime: 2023-11-07 20:57:07
+epoch = 7  loss = 0.014690919366422554
+lr = 0.00014
+Overall Accuracy is: 70.28
+
+nowTime: 2023-11-07 21:01:25
+epoch = 8  loss = 0.012931903835622217
+lr = 0.00014
+Overall Accuracy is: 69.66
+
+nowTime: 2023-11-07 21:05:43
+epoch = 9  loss = 0.011548239357182017
+lr = 0.00014
+Overall Accuracy is: 69.59
+
+nowTime: 2023-11-07 21:10:00
+epoch = 10  loss = 0.01036466149212351
+lr = 0.00014
+Overall Accuracy is: 69.92
+
+nowTime: 2023-11-07 21:14:18
+epoch = 11  loss = 0.006210591508716654
+lr = 2.8e-05
+Overall Accuracy is: 72.42
+
+nowTime: 2023-11-07 21:18:36
+epoch = 12  loss = 0.004609100013270728
+lr = 2.8e-05
+Overall Accuracy is: 72.43
+
+nowTime: 2023-11-07 21:22:53
+epoch = 13  loss = 0.0035351688346439017
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.27
+
+nowTime: 2023-11-07 21:27:11
+epoch = 14  loss = 0.003201486335419313
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.44
+
+nowTime: 2023-11-07 21:31:29
+epoch = 15  loss = 0.0029680922893647525
+lr = 1.12e-06
+Overall Accuracy is: 72.42
+
+Overall Accuracy is: 63.14
+
+Overall Accuracy is: 78.99
+
+nowTime: 2023-11-07 22:10:44
+epoch = 1  loss = 0.034283488689787055
+lr = 3.5e-05
+Overall Accuracy is: 58.05
+
+nowTime: 2023-11-07 22:13:36
+epoch = 2  loss = 0.028807384585325023
+lr = 7e-05
+Overall Accuracy is: 64.50
+
+nowTime: 2023-11-07 22:16:29
+epoch = 3  loss = 0.025967422234625902
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.46
+
+nowTime: 2023-11-07 22:19:21
+epoch = 4  loss = 0.023735850649650413
+lr = 0.00014
+Overall Accuracy is: 68.67
+
+nowTime: 2023-11-07 22:22:14
+epoch = 5  loss = 0.02083400556956831
+lr = 0.00014
+Overall Accuracy is: 69.40
+
+nowTime: 2023-11-07 22:25:06
+epoch = 6  loss = 0.01818192793672315
+lr = 0.00014
+Overall Accuracy is: 70.89
+
+nowTime: 2023-11-07 22:27:59
+epoch = 7  loss = 0.01592336838253565
+lr = 0.00014
+Overall Accuracy is: 71.32
+
+nowTime: 2023-11-07 22:30:51
+epoch = 8  loss = 0.014072077336242876
+lr = 0.00014
+Overall Accuracy is: 70.92
+
+nowTime: 2023-11-07 22:33:44
+epoch = 9  loss = 0.01251614817517361
+lr = 0.00014
+Overall Accuracy is: 71.32
+
+nowTime: 2023-11-07 22:36:37
+epoch = 10  loss = 0.011248466701266046
+lr = 0.00014
+Overall Accuracy is: 71.81
+
+nowTime: 2023-11-07 22:39:31
+epoch = 11  loss = 0.007150737414009194
+lr = 2.8e-05
+Overall Accuracy is: 72.96
+
+nowTime: 2023-11-07 22:42:26
+epoch = 12  loss = 0.00547695899787929
+lr = 2.8e-05
+Overall Accuracy is: 72.65
+
+nowTime: 2023-11-07 22:45:20
+epoch = 13  loss = 0.004365153893693654
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.08
+
+nowTime: 2023-11-07 22:48:13
+epoch = 14  loss = 0.004041607780581924
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.06
+
+nowTime: 2023-11-07 22:51:08
+epoch = 15  loss = 0.0038015574321597933
+lr = 1.12e-06
+Overall Accuracy is: 73.02
+
+Overall Accuracy is: 74.43
+
+nowTime: 2023-11-08 09:51:12
+epoch = 1  loss = 0.028650005227409604
+lr = 3.5e-05
+Overall Accuracy is: 74.76
+
+nowTime: 2023-11-08 09:55:34
+epoch = 2  loss = 0.023057148683096447
+lr = 7e-05
+Overall Accuracy is: 77.92
+
+nowTime: 2023-11-08 09:59:55
+epoch = 3  loss = 0.02019007432159835
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.86
+
+nowTime: 2023-11-08 10:04:15
+epoch = 4  loss = 0.01825084265829667
+lr = 0.00014
+Overall Accuracy is: 78.73
+
+nowTime: 2023-11-08 10:08:38
+epoch = 5  loss = 0.015662763834754973
+lr = 0.00014
+Overall Accuracy is: 79.79
+
+nowTime: 2023-11-08 10:12:58
+epoch = 6  loss = 0.01349130909318488
+lr = 0.00014
+Overall Accuracy is: 80.56
+
+nowTime: 2023-11-08 10:17:19
+epoch = 7  loss = 0.011767020231288821
+lr = 0.00014
+Overall Accuracy is: 79.46
+
+nowTime: 2023-11-08 10:21:39
+epoch = 8  loss = 0.01046411033953103
+lr = 0.00014
+Overall Accuracy is: 79.85
+
+nowTime: 2023-11-08 10:26:01
+epoch = 9  loss = 0.009329911093514278
+lr = 0.00014
+Overall Accuracy is: 80.45
+
+nowTime: 2023-11-08 10:30:22
+epoch = 10  loss = 0.008539658285985897
+lr = 0.00014
+Overall Accuracy is: 79.46
+
+nowTime: 2023-11-08 10:34:42
+epoch = 11  loss = 0.005162563154571778
+lr = 2.8e-05
+Overall Accuracy is: 81.98
+
+nowTime: 2023-11-08 10:39:02
+epoch = 12  loss = 0.0039010213151912257
+lr = 2.8e-05
+Overall Accuracy is: 82.09
+
+nowTime: 2023-11-08 10:43:23
+epoch = 13  loss = 0.003057893294684842
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.09
+
+nowTime: 2023-11-08 10:47:43
+epoch = 14  loss = 0.0028176709788731813
+lr = 5.600000000000001e-06
+Overall Accuracy is: 81.96
+
+nowTime: 2023-11-08 10:52:04
+epoch = 15  loss = 0.002622089631368076
+lr = 1.12e-06
+Overall Accuracy is: 82.09
+
+Overall Accuracy is: 85.50
+
+Overall Accuracy is: 76.84
+
+nowTime: 2023-11-08 12:16:45
+epoch = 1  loss = 0.033209222608549076
+lr = 3.5e-05
+Overall Accuracy is: 60.68
+
+nowTime: 2023-11-08 12:21:04
+epoch = 2  loss = 0.027919298347500517
+lr = 7e-05
+Overall Accuracy is: 64.76
+
+nowTime: 2023-11-08 12:25:27
+epoch = 3  loss = 0.024988284862471757
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.69
+
+nowTime: 2023-11-08 12:29:49
+epoch = 4  loss = 0.0227040592491722
+lr = 0.00014
+Overall Accuracy is: 67.75
+
+nowTime: 2023-11-08 12:34:11
+epoch = 5  loss = 0.019696201878556654
+lr = 0.00014
+Overall Accuracy is: 68.95
+
+nowTime: 2023-11-08 12:38:33
+epoch = 6  loss = 0.017209428556553212
+lr = 0.00014
+Overall Accuracy is: 69.03
+
+nowTime: 2023-11-08 12:42:54
+epoch = 7  loss = 0.015062724741262105
+lr = 0.00014
+Overall Accuracy is: 70.22
+
+nowTime: 2023-11-08 12:47:16
+epoch = 8  loss = 0.013328130730588066
+lr = 0.00014
+Overall Accuracy is: 70.16
+
+nowTime: 2023-11-08 12:51:39
+epoch = 9  loss = 0.01188162170706806
+lr = 0.00014
+Overall Accuracy is: 70.47
+
+nowTime: 2023-11-08 12:56:01
+epoch = 10  loss = 0.010815807900028814
+lr = 0.00014
+Overall Accuracy is: 70.93
+
+nowTime: 2023-11-08 13:00:23
+epoch = 11  loss = 0.006593544315621177
+lr = 2.8e-05
+Overall Accuracy is: 73.02
+
+nowTime: 2023-11-08 13:04:45
+epoch = 12  loss = 0.004999572690154565
+lr = 2.8e-05
+Overall Accuracy is: 72.76
+
+nowTime: 2023-11-08 13:09:07
+epoch = 13  loss = 0.0038533599017169097
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.95
+
+nowTime: 2023-11-08 13:13:29
+epoch = 14  loss = 0.003534633618023804
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.01
+
+nowTime: 2023-11-08 13:17:51
+epoch = 15  loss = 0.0032700559008493426
+lr = 1.12e-06
+Overall Accuracy is: 73.13
+
+Overall Accuracy is: 63.35
+
+Overall Accuracy is: 79.11
+
+nowTime: 2023-11-08 14:09:38
+epoch = 1  loss = 0.0342311692603276
+lr = 3.5e-05
+Overall Accuracy is: 58.11
+
+nowTime: 2023-11-08 14:12:33
+epoch = 2  loss = 0.02886265215711203
+lr = 7e-05
+Overall Accuracy is: 63.48
+
+nowTime: 2023-11-08 14:15:28
+epoch = 3  loss = 0.026216547101120122
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.54
+
+nowTime: 2023-11-08 14:18:24
+epoch = 4  loss = 0.02425881996247414
+lr = 0.00014
+Overall Accuracy is: 69.18
+
+nowTime: 2023-11-08 14:21:18
+epoch = 5  loss = 0.02153455913925635
+lr = 0.00014
+Overall Accuracy is: 68.97
+
+nowTime: 2023-11-08 14:24:15
+epoch = 6  loss = 0.01906225916119633
+lr = 0.00014
+Overall Accuracy is: 70.49
+
+nowTime: 2023-11-08 14:27:11
+epoch = 7  loss = 0.016974134267039823
+lr = 0.00014
+Overall Accuracy is: 70.73
+
+nowTime: 2023-11-08 14:30:07
+epoch = 8  loss = 0.015160390872520132
+lr = 0.00014
+Overall Accuracy is: 69.81
+
+nowTime: 2023-11-08 14:33:03
+epoch = 9  loss = 0.013724415743685015
+lr = 0.00014
+Overall Accuracy is: 70.49
+
+nowTime: 2023-11-08 14:35:59
+epoch = 10  loss = 0.012495001820204795
+lr = 0.00014
+Overall Accuracy is: 71.45
+
+nowTime: 2023-11-08 14:38:54
+epoch = 11  loss = 0.008122245648606356
+lr = 2.8e-05
+Overall Accuracy is: 72.24
+
+nowTime: 2023-11-08 14:41:50
+epoch = 12  loss = 0.006447361827722865
+lr = 2.8e-05
+Overall Accuracy is: 72.96
+
+nowTime: 2023-11-08 14:44:46
+epoch = 13  loss = 0.005155299985833134
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.77
+
+nowTime: 2023-11-08 14:47:43
+epoch = 14  loss = 0.00480824221049203
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.81
+
+nowTime: 2023-11-08 14:50:39
+epoch = 15  loss = 0.004512916192107364
+lr = 1.12e-06
+Overall Accuracy is: 72.86
+
+Overall Accuracy is: 73.34
+
+nowTime: 2023-11-08 20:59:42
+epoch = 1  loss = 0.03416822453596539
+lr = 3.5e-05
+Overall Accuracy is: 57.88
+
+nowTime: 2023-11-08 21:02:38
+epoch = 2  loss = 0.028790643109994775
+lr = 7e-05
+Overall Accuracy is: 63.68
+
+nowTime: 2023-11-08 21:05:33
+epoch = 3  loss = 0.02603086711178476
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.97
+
+nowTime: 2023-11-08 21:08:29
+epoch = 4  loss = 0.02395434274274518
+lr = 0.00014
+Overall Accuracy is: 68.14
+
+nowTime: 2023-11-08 21:11:25
+epoch = 5  loss = 0.021095104314185476
+lr = 0.00014
+Overall Accuracy is: 68.36
+
+nowTime: 2023-11-08 21:14:21
+epoch = 6  loss = 0.0186474280652482
+lr = 0.00014
+Overall Accuracy is: 70.45
+
+nowTime: 2023-11-08 21:17:15
+epoch = 7  loss = 0.016483556114237855
+lr = 0.00014
+Overall Accuracy is: 69.67
+
+nowTime: 2023-11-08 21:20:11
+epoch = 8  loss = 0.014818435799869425
+lr = 0.00014
+Overall Accuracy is: 70.22
+
+nowTime: 2023-11-08 21:23:06
+epoch = 9  loss = 0.013413101522805723
+lr = 0.00014
+Overall Accuracy is: 70.22
+
+nowTime: 2023-11-08 21:26:02
+epoch = 10  loss = 0.012393338933723293
+lr = 0.00014
+Overall Accuracy is: 71.38
+
+nowTime: 2023-11-08 21:28:58
+epoch = 11  loss = 0.008120242223463395
+lr = 2.8e-05
+Overall Accuracy is: 72.75
+
+nowTime: 2023-11-08 21:31:54
+epoch = 12  loss = 0.006390385050067474
+lr = 2.8e-05
+Overall Accuracy is: 72.83
+
+nowTime: 2023-11-08 21:34:49
+epoch = 13  loss = 0.005080300009223101
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.14
+
+nowTime: 2023-11-08 21:37:44
+epoch = 14  loss = 0.004717675974742111
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.08
+
+nowTime: 2023-11-08 21:40:39
+epoch = 15  loss = 0.004415834932410364
+lr = 1.12e-06
+Overall Accuracy is: 73.06
+
+Overall Accuracy is: 73.06
+
+nowTime: 2023-11-09 19:33:53
+epoch = 1  loss = 0.028627682333879346
+lr = 3.5e-05
+Overall Accuracy is: 74.43
+
+nowTime: 2023-11-09 19:38:16
+epoch = 2  loss = 0.02312432049878432
+lr = 7e-05
+Overall Accuracy is: 77.24
+
+nowTime: 2023-11-09 19:42:38
+epoch = 3  loss = 0.02023633040098232
+lr = 0.00010499999999999999
+Overall Accuracy is: 79.08
+
+nowTime: 2023-11-09 19:46:59
+epoch = 4  loss = 0.018224001149775463
+lr = 0.00014
+Overall Accuracy is: 78.04
+
+nowTime: 2023-11-09 19:51:22
+epoch = 5  loss = 0.01560179216415481
+lr = 0.00014
+Overall Accuracy is: 79.39
+
+nowTime: 2023-11-09 19:55:48
+epoch = 6  loss = 0.013449828838435202
+lr = 0.00014
+Overall Accuracy is: 79.29
+
+nowTime: 2023-11-09 20:00:19
+epoch = 7  loss = 0.011780905559799394
+lr = 0.00014
+Overall Accuracy is: 79.26
+
+nowTime: 2023-11-09 20:04:49
+epoch = 8  loss = 0.010580632011079864
+lr = 0.00014
+Overall Accuracy is: 80.29
+
+nowTime: 2023-11-09 20:09:21
+epoch = 9  loss = 0.009511940698327215
+lr = 0.00014
+Overall Accuracy is: 79.53
+
+nowTime: 2023-11-09 20:13:52
+epoch = 10  loss = 0.008615035345212354
+lr = 0.00014
+Overall Accuracy is: 79.89
+
+nowTime: 2023-11-09 20:18:24
+epoch = 11  loss = 0.005180991692107661
+lr = 2.8e-05
+Overall Accuracy is: 81.67
+
+nowTime: 2023-11-09 20:22:54
+epoch = 12  loss = 0.003903052251046472
+lr = 2.8e-05
+Overall Accuracy is: 81.89
+
+nowTime: 2023-11-09 20:27:25
+epoch = 13  loss = 0.0030250911638704217
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.15
+
+nowTime: 2023-11-09 20:31:56
+epoch = 14  loss = 0.0027696264611365325
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.10
+
+nowTime: 2023-11-09 20:36:26
+epoch = 15  loss = 0.002581817914537528
+lr = 1.12e-06
+Overall Accuracy is: 82.03
+
+Overall Accuracy is: 85.93
+
+Overall Accuracy is: 75.35
+
+nowTime: 2023-11-09 21:00:26
+epoch = 1  loss = 0.033140818019321644
+lr = 3.5e-05
+Overall Accuracy is: 61.13
+
+nowTime: 2023-11-09 21:04:58
+epoch = 2  loss = 0.02772105619168434
+lr = 7e-05
+Overall Accuracy is: 63.83
+
+nowTime: 2023-11-09 21:09:29
+epoch = 3  loss = 0.024601060113153626
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.29
+
+nowTime: 2023-11-09 21:14:00
+epoch = 4  loss = 0.022262895565636785
+lr = 0.00014
+Overall Accuracy is: 67.33
+
+nowTime: 2023-11-09 21:18:31
+epoch = 5  loss = 0.019252459907613508
+lr = 0.00014
+Overall Accuracy is: 68.65
+
+nowTime: 2023-11-09 21:23:02
+epoch = 6  loss = 0.01685131192812671
+lr = 0.00014
+Overall Accuracy is: 68.70
+
+nowTime: 2023-11-09 21:27:34
+epoch = 7  loss = 0.015031481325947895
+lr = 0.00014
+Overall Accuracy is: 69.53
+
+nowTime: 2023-11-09 21:32:05
+epoch = 8  loss = 0.01363546121865511
+lr = 0.00014
+Overall Accuracy is: 69.56
+
+nowTime: 2023-11-09 21:36:35
+epoch = 9  loss = 0.012317548646875913
+lr = 0.00014
+Overall Accuracy is: 69.51
+
+nowTime: 2023-11-09 21:41:06
+epoch = 10  loss = 0.011437799849785114
+lr = 0.00014
+Overall Accuracy is: 68.55
+
+nowTime: 2023-11-09 21:45:39
+epoch = 11  loss = 0.007313397019599417
+lr = 2.8e-05
+Overall Accuracy is: 71.49
+
+nowTime: 2023-11-09 21:50:11
+epoch = 12  loss = 0.0056515989676772845
+lr = 2.8e-05
+Overall Accuracy is: 71.21
+
+nowTime: 2023-11-09 21:54:41
+epoch = 13  loss = 0.00436380852525384
+lr = 5.600000000000001e-06
+Overall Accuracy is: 71.43
+
+nowTime: 2023-11-09 21:59:12
+epoch = 14  loss = 0.0040166830545024365
+lr = 5.600000000000001e-06
+Overall Accuracy is: 71.44
+
+nowTime: 2023-11-09 22:03:45
+epoch = 15  loss = 0.0036972276956367925
+lr = 1.12e-06
+Overall Accuracy is: 71.57
+
+Overall Accuracy is: 60.83
+
+Overall Accuracy is: 78.38
+
+nowTime: 2023-11-10 11:08:25
+epoch = 1  loss = 0.033080863562443816
+lr = 3.5e-05
+Overall Accuracy is: 60.84
+
+nowTime: 2023-11-10 11:12:47
+epoch = 2  loss = 0.02776422504817925
+lr = 7e-05
+Overall Accuracy is: 64.70
+
+nowTime: 2023-11-10 11:17:08
+epoch = 3  loss = 0.024900854400968894
+lr = 0.00010499999999999999
+Overall Accuracy is: 65.79
+
+nowTime: 2023-11-10 11:21:29
+epoch = 4  loss = 0.022504774326151937
+lr = 0.00014
+Overall Accuracy is: 66.71
+
+nowTime: 2023-11-10 11:25:51
+epoch = 5  loss = 0.019455050290936825
+lr = 0.00014
+Overall Accuracy is: 68.54
+
+nowTime: 2023-11-10 11:30:12
+epoch = 6  loss = 0.016852120326045
+lr = 0.00014
+Overall Accuracy is: 68.83
+
+nowTime: 2023-11-10 11:34:33
+epoch = 7  loss = 0.014807019723588218
+lr = 0.00014
+Overall Accuracy is: 69.27
+
+nowTime: 2023-11-10 11:38:55
+epoch = 8  loss = 0.01322032985181712
+lr = 0.00014
+Overall Accuracy is: 69.28
+
+nowTime: 2023-11-10 11:43:17
+epoch = 9  loss = 0.011942745087649444
+lr = 0.00014
+Overall Accuracy is: 69.06
+
+nowTime: 2023-11-10 11:47:38
+epoch = 10  loss = 0.010818319453733299
+lr = 0.00014
+Overall Accuracy is: 69.97
+
+nowTime: 2023-11-10 11:52:00
+epoch = 11  loss = 0.00661152729069438
+lr = 2.8e-05
+Overall Accuracy is: 71.88
+
+nowTime: 2023-11-10 11:56:22
+epoch = 12  loss = 0.004965521443707667
+lr = 2.8e-05
+Overall Accuracy is: 71.92
+
+nowTime: 2023-11-10 12:00:44
+epoch = 13  loss = 0.0038128471354019647
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.07
+
+nowTime: 2023-11-10 12:05:05
+epoch = 14  loss = 0.003457972394341189
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.14
+
+nowTime: 2023-11-10 12:09:27
+epoch = 15  loss = 0.00319595972244014
+lr = 1.12e-06
+Overall Accuracy is: 72.18
+
+Overall Accuracy is: 78.89
+
+Overall Accuracy is: 62.00
+
+nowTime: 2023-11-10 15:40:22
+epoch = 1  loss = 0.02863379155785921
+lr = 3.5e-05
+Overall Accuracy is: 74.76
+
+nowTime: 2023-11-10 15:44:50
+epoch = 2  loss = 0.022879760682725223
+lr = 7e-05
+Overall Accuracy is: 77.79
+
+nowTime: 2023-11-10 15:49:17
+epoch = 3  loss = 0.01994036673914222
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.78
+
+nowTime: 2023-11-10 15:53:44
+epoch = 4  loss = 0.017796876978212195
+lr = 0.00014
+Overall Accuracy is: 78.15
+
+nowTime: 2023-11-10 15:58:11
+epoch = 5  loss = 0.015136838445218473
+lr = 0.00014
+Overall Accuracy is: 78.73
+
+nowTime: 2023-11-10 16:02:38
+epoch = 6  loss = 0.013000772454758074
+lr = 0.00014
+Overall Accuracy is: 80.11
+
+nowTime: 2023-11-10 16:07:04
+epoch = 7  loss = 0.011315861139238877
+lr = 0.00014
+Overall Accuracy is: 79.83
+
+nowTime: 2023-11-10 16:11:33
+epoch = 8  loss = 0.009987249932619654
+lr = 0.00014
+Overall Accuracy is: 81.03
+
+nowTime: 2023-11-10 16:16:02
+epoch = 9  loss = 0.008873166946492567
+lr = 0.00014
+Overall Accuracy is: 80.28
+
+nowTime: 2023-11-10 16:20:28
+epoch = 10  loss = 0.008058554197279954
+lr = 0.00014
+Overall Accuracy is: 80.14
+
+nowTime: 2023-11-10 16:24:56
+epoch = 11  loss = 0.004703812169172107
+lr = 2.8e-05
+Overall Accuracy is: 81.63
+
+nowTime: 2023-11-10 16:29:24
+epoch = 12  loss = 0.0035168886723020557
+lr = 2.8e-05
+Overall Accuracy is: 81.94
+
+nowTime: 2023-11-10 16:33:52
+epoch = 13  loss = 0.00272462344803796
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.17
+
+nowTime: 2023-11-10 16:38:21
+epoch = 14  loss = 0.002494248622116848
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.18
+
+nowTime: 2023-11-10 16:42:47
+epoch = 15  loss = 0.0023220471871943627
+lr = 1.12e-06
+Overall Accuracy is: 82.27
+
+Overall Accuracy is: 75.84
+
+Overall Accuracy is: 85.50
+
+nowTime: 2023-11-10 16:55:33
+epoch = 1  loss = 0.03424788430031087
+lr = 3.5e-05
+Overall Accuracy is: 57.90
+
+nowTime: 2023-11-10 16:58:30
+epoch = 2  loss = 0.028668150338322065
+lr = 7e-05
+Overall Accuracy is: 64.58
+
+nowTime: 2023-11-10 17:01:28
+epoch = 3  loss = 0.025993255772502034
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.07
+
+nowTime: 2023-11-10 17:04:26
+epoch = 4  loss = 0.024011605000197413
+lr = 0.00014
+Overall Accuracy is: 68.14
+
+nowTime: 2023-11-10 17:07:25
+epoch = 5  loss = 0.02113588568376931
+lr = 0.00014
+Overall Accuracy is: 68.89
+
+nowTime: 2023-11-10 17:10:26
+epoch = 6  loss = 0.018652043294232628
+lr = 0.00014
+Overall Accuracy is: 69.93
+
+nowTime: 2023-11-10 17:13:26
+epoch = 7  loss = 0.016577023105171697
+lr = 0.00014
+Overall Accuracy is: 70.30
+
+nowTime: 2023-11-10 17:16:25
+epoch = 8  loss = 0.014898076307010764
+lr = 0.00014
+Overall Accuracy is: 70.00
+
+nowTime: 2023-11-10 17:19:22
+epoch = 9  loss = 0.01345117181829741
+lr = 0.00014
+Overall Accuracy is: 70.73
+
+nowTime: 2023-11-10 17:22:20
+epoch = 10  loss = 0.012189943934176325
+lr = 0.00014
+Overall Accuracy is: 70.14
+
+nowTime: 2023-11-10 17:25:20
+epoch = 11  loss = 0.007869364728555912
+lr = 2.8e-05
+Overall Accuracy is: 72.90
+
+nowTime: 2023-11-10 17:28:19
+epoch = 12  loss = 0.006190281266395435
+lr = 2.8e-05
+Overall Accuracy is: 73.04
+
+nowTime: 2023-11-10 17:31:18
+epoch = 13  loss = 0.004913530934347352
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.22
+
+nowTime: 2023-11-10 17:34:19
+epoch = 14  loss = 0.004555415442074236
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.22
+
+nowTime: 2023-11-10 17:37:17
+epoch = 15  loss = 0.004265611816570755
+lr = 1.12e-06
+Overall Accuracy is: 73.16
+
+Overall Accuracy is: 73.69
+
+nowTime: 2023-11-10 20:30:21
+epoch = 1  loss = 0.034245706084872846
+lr = 3.5e-05
+Overall Accuracy is: 57.97
+
+nowTime: 2023-11-10 20:33:17
+epoch = 2  loss = 0.028677537810762186
+lr = 7e-05
+Overall Accuracy is: 65.83
+
+nowTime: 2023-11-10 20:36:13
+epoch = 3  loss = 0.025872458693451457
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.30
+
+nowTime: 2023-11-10 20:39:18
+epoch = 4  loss = 0.02368630959677535
+lr = 0.00014
+Overall Accuracy is: 68.38
+
+nowTime: 2023-11-10 20:42:15
+epoch = 5  loss = 0.020749743217942918
+lr = 0.00014
+Overall Accuracy is: 68.75
+
+nowTime: 2023-11-10 20:45:11
+epoch = 6  loss = 0.018229586390603708
+lr = 0.00014
+Overall Accuracy is: 69.77
+
+nowTime: 2023-11-10 20:48:07
+epoch = 7  loss = 0.016049537570800614
+lr = 0.00014
+Overall Accuracy is: 70.14
+
+nowTime: 2023-11-10 20:51:01
+epoch = 8  loss = 0.014284252565182355
+lr = 0.00014
+Overall Accuracy is: 70.98
+
+nowTime: 2023-11-10 20:53:54
+epoch = 9  loss = 0.01284632651766078
+lr = 0.00014
+Overall Accuracy is: 71.96
+
+nowTime: 2023-11-10 20:56:47
+epoch = 10  loss = 0.011673981452653916
+lr = 0.00014
+Overall Accuracy is: 70.57
+
+nowTime: 2023-11-10 20:59:39
+epoch = 11  loss = 0.007445313847092216
+lr = 2.8e-05
+Overall Accuracy is: 72.92
+
+nowTime: 2023-11-10 21:02:35
+epoch = 12  loss = 0.005742767134633964
+lr = 2.8e-05
+Overall Accuracy is: 73.18
+
+nowTime: 2023-11-10 21:05:30
+epoch = 13  loss = 0.004537458563762434
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.30
+
+nowTime: 2023-11-10 21:08:26
+epoch = 14  loss = 0.004190948546941085
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.16
+
+nowTime: 2023-11-10 21:11:21
+epoch = 15  loss = 0.0039203560921113306
+lr = 1.12e-06
+Overall Accuracy is: 73.14
+
+Overall Accuracy is: 73.68
+
+nowTime: 2023-11-10 21:42:17
+epoch = 1  loss = 0.03428279656608884
+lr = 3.5e-05
+Overall Accuracy is: 57.13
+
+nowTime: 2023-11-10 21:45:12
+epoch = 2  loss = 0.028860731281351967
+lr = 7e-05
+Overall Accuracy is: 65.13
+
+nowTime: 2023-11-10 21:48:05
+epoch = 3  loss = 0.02617478003023586
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.67
+
+nowTime: 2023-11-10 21:51:01
+epoch = 4  loss = 0.024063893666399112
+lr = 0.00014
+Overall Accuracy is: 69.53
+
+nowTime: 2023-11-10 21:53:57
+epoch = 5  loss = 0.021292198405694365
+lr = 0.00014
+Overall Accuracy is: 69.49
+
+nowTime: 2023-11-10 21:56:53
+epoch = 6  loss = 0.018774842242273503
+lr = 0.00014
+Overall Accuracy is: 70.45
+
+nowTime: 2023-11-10 21:59:49
+epoch = 7  loss = 0.016696769382881626
+lr = 0.00014
+Overall Accuracy is: 70.47
+
+nowTime: 2023-11-10 22:02:44
+epoch = 8  loss = 0.014906745834130977
+lr = 0.00014
+Overall Accuracy is: 70.55
+
+nowTime: 2023-11-10 22:05:39
+epoch = 9  loss = 0.013365171525467465
+lr = 0.00014
+Overall Accuracy is: 72.08
+
+nowTime: 2023-11-10 22:08:35
+epoch = 10  loss = 0.01213313328673758
+lr = 0.00014
+Overall Accuracy is: 71.41
+
+nowTime: 2023-11-10 22:11:32
+epoch = 11  loss = 0.007859316716690226
+lr = 2.8e-05
+Overall Accuracy is: 73.28
+
+nowTime: 2023-11-10 22:14:28
+epoch = 12  loss = 0.006194813398345239
+lr = 2.8e-05
+Overall Accuracy is: 73.84
+
+nowTime: 2023-11-10 22:17:24
+epoch = 13  loss = 0.004989949817175493
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.96
+
+nowTime: 2023-11-10 22:20:20
+epoch = 14  loss = 0.004617627739901869
+lr = 5.600000000000001e-06
+Overall Accuracy is: 74.20
+
+nowTime: 2023-11-10 22:23:17
+epoch = 15  loss = 0.004355549215618965
+lr = 1.12e-06
+Overall Accuracy is: 74.20
+
+Overall Accuracy is: 74.20
+
+nowTime: 2023-11-11 21:03:55
+epoch = 1  loss = 0.03309511820813983
+lr = 3.5e-05
+Overall Accuracy is: 60.37
+
+nowTime: 2023-11-11 21:08:16
+epoch = 2  loss = 0.027944585245914387
+lr = 7e-05
+Overall Accuracy is: 64.85
+
+nowTime: 2023-11-11 21:12:39
+epoch = 3  loss = 0.02506116827970721
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.36
+
+nowTime: 2023-11-11 21:17:00
+epoch = 4  loss = 0.022645553217215397
+lr = 0.00014
+Overall Accuracy is: 67.26
+
+nowTime: 2023-11-11 21:21:21
+epoch = 5  loss = 0.019573046375794427
+lr = 0.00014
+Overall Accuracy is: 68.56
+
+nowTime: 2023-11-11 21:25:42
+epoch = 6  loss = 0.01693485429402308
+lr = 0.00014
+Overall Accuracy is: 69.32
+
+nowTime: 2023-11-11 21:30:05
+epoch = 7  loss = 0.014841952277312713
+lr = 0.00014
+Overall Accuracy is: 70.86
+
+nowTime: 2023-11-11 21:34:28
+epoch = 8  loss = 0.01311411824351257
+lr = 0.00014
+Overall Accuracy is: 69.79
+
+nowTime: 2023-11-11 21:38:50
+epoch = 9  loss = 0.011697374187513083
+lr = 0.00014
+Overall Accuracy is: 69.46
+
+nowTime: 2023-11-11 21:43:13
+epoch = 10  loss = 0.01060359364476692
+lr = 0.00014
+Overall Accuracy is: 69.88
+
+nowTime: 2023-11-11 21:47:36
+epoch = 11  loss = 0.006389201077775008
+lr = 2.8e-05
+Overall Accuracy is: 72.09
+
+nowTime: 2023-11-11 21:51:58
+epoch = 12  loss = 0.0048139815120255705
+lr = 2.8e-05
+Overall Accuracy is: 71.97
+
+nowTime: 2023-11-11 21:56:21
+epoch = 13  loss = 0.0036952771822245643
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.51
+
+nowTime: 2023-11-11 22:00:43
+epoch = 14  loss = 0.0033973949967814557
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.50
+
+nowTime: 2023-11-11 22:05:06
+epoch = 15  loss = 0.003133572199415132
+lr = 1.12e-06
+Overall Accuracy is: 72.55
+
+Overall Accuracy is: 78.97
+
+Overall Accuracy is: 63.55
+
+nowTime: 2023-11-12 09:18:50
+epoch = 1  loss = 0.028711503290525794
+lr = 3.5e-05
+Overall Accuracy is: 74.51
+
+nowTime: 2023-11-12 09:23:12
+epoch = 2  loss = 0.0231543339605022
+lr = 7e-05
+Overall Accuracy is: 77.70
+
+nowTime: 2023-11-12 09:27:36
+epoch = 3  loss = 0.02042345376734695
+lr = 0.00010499999999999999
+Overall Accuracy is: 79.19
+
+nowTime: 2023-11-12 09:31:57
+epoch = 4  loss = 0.018409364543867053
+lr = 0.00014
+Overall Accuracy is: 79.64
+
+nowTime: 2023-11-12 09:36:21
+epoch = 5  loss = 0.01584788704253417
+lr = 0.00014
+Overall Accuracy is: 79.96
+
+nowTime: 2023-11-12 09:40:45
+epoch = 6  loss = 0.013641886358720798
+lr = 0.00014
+Overall Accuracy is: 79.96
+
+nowTime: 2023-11-12 09:45:08
+epoch = 7  loss = 0.011901360442130303
+lr = 0.00014
+Overall Accuracy is: 80.12
+
+nowTime: 2023-11-12 09:49:30
+epoch = 8  loss = 0.010402918844177307
+lr = 0.00014
+Overall Accuracy is: 80.24
+
+nowTime: 2023-11-12 09:53:53
+epoch = 9  loss = 0.009341144324043042
+lr = 0.00014
+Overall Accuracy is: 80.78
+
+nowTime: 2023-11-12 09:58:16
+epoch = 10  loss = 0.00843258337078185
+lr = 0.00014
+Overall Accuracy is: 80.37
+
+nowTime: 2023-11-12 10:02:39
+epoch = 11  loss = 0.005039836366308928
+lr = 2.8e-05
+Overall Accuracy is: 81.95
+
+nowTime: 2023-11-12 10:07:02
+epoch = 12  loss = 0.0038042646620695475
+lr = 2.8e-05
+Overall Accuracy is: 82.35
+
+nowTime: 2023-11-12 10:11:26
+epoch = 13  loss = 0.003010840445913616
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.26
+
+nowTime: 2023-11-12 10:15:49
+epoch = 14  loss = 0.0027495899620552937
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.16
+
+nowTime: 2023-11-12 10:20:13
+epoch = 15  loss = 0.00257378096405304
+lr = 1.12e-06
+Overall Accuracy is: 82.14
+
+Overall Accuracy is: 76.51
+
+Overall Accuracy is: 86.00
+
+nowTime: 2023-11-12 17:23:11
+epoch = 1  loss = 0.02877105801166559
+lr = 3.5e-05
+Overall Accuracy is: 74.68
+
+nowTime: 2023-11-12 17:27:37
+epoch = 2  loss = 0.023492307618711215
+lr = 7e-05
+Overall Accuracy is: 77.21
+
+nowTime: 2023-11-12 17:32:03
+epoch = 3  loss = 0.021224467438248216
+lr = 0.00010499999999999999
+Overall Accuracy is: 79.06
+
+nowTime: 2023-11-12 17:36:30
+epoch = 4  loss = 0.019241917911509643
+lr = 0.00014
+Overall Accuracy is: 78.15
+
+nowTime: 2023-11-12 17:40:57
+epoch = 5  loss = 0.016530224386080625
+lr = 0.00014
+Overall Accuracy is: 79.76
+
+nowTime: 2023-11-12 17:45:22
+epoch = 6  loss = 0.014275222613857842
+lr = 0.00014
+Overall Accuracy is: 80.16
+
+nowTime: 2023-11-12 17:49:44
+epoch = 7  loss = 0.012411497223869188
+lr = 0.00014
+Overall Accuracy is: 80.31
+
+nowTime: 2023-11-12 17:54:08
+epoch = 8  loss = 0.010829761017048672
+lr = 0.00014
+Overall Accuracy is: 80.32
+
+nowTime: 2023-11-12 17:58:34
+epoch = 9  loss = 0.009549962995364281
+lr = 0.00014
+Overall Accuracy is: 80.64
+
+nowTime: 2023-11-12 18:03:00
+epoch = 10  loss = 0.008550378662284915
+lr = 0.00014
+Overall Accuracy is: 80.34
+
+nowTime: 2023-11-12 18:07:23
+epoch = 11  loss = 0.005166839564890421
+lr = 2.8e-05
+Overall Accuracy is: 82.19
+
+nowTime: 2023-11-12 18:11:45
+epoch = 12  loss = 0.00398331658811864
+lr = 2.8e-05
+Overall Accuracy is: 81.97
+
+nowTime: 2023-11-12 18:16:08
+epoch = 13  loss = 0.003194651300803859
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.67
+
+nowTime: 2023-11-12 18:20:31
+epoch = 14  loss = 0.002979179718576158
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.53
+
+nowTime: 2023-11-12 18:24:57
+epoch = 15  loss = 0.002806758129983575
+lr = 1.12e-06
+Overall Accuracy is: 82.49
+
+Overall Accuracy is: 85.38
+
+Overall Accuracy is: 76.90
+
+nowTime: 2023-11-12 22:05:44
+epoch = 1  loss = 0.02871558329707403
+lr = 3.5e-05
+Overall Accuracy is: 74.95
+
+nowTime: 2023-11-12 22:10:07
+epoch = 2  loss = 0.02337655380285185
+lr = 7e-05
+Overall Accuracy is: 77.34
+
+nowTime: 2023-11-12 22:14:30
+epoch = 3  loss = 0.020887399645474782
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.16
+
+nowTime: 2023-11-12 22:18:54
+epoch = 4  loss = 0.018808387330142017
+lr = 0.00014
+Overall Accuracy is: 78.84
+
+nowTime: 2023-11-12 22:23:17
+epoch = 5  loss = 0.01623031080724185
+lr = 0.00014
+Overall Accuracy is: 79.75
+
+nowTime: 2023-11-12 22:27:40
+epoch = 6  loss = 0.014042017539971035
+lr = 0.00014
+Overall Accuracy is: 80.77
+
+nowTime: 2023-11-12 22:32:02
+epoch = 7  loss = 0.012188638279445848
+lr = 0.00014
+Overall Accuracy is: 81.07
+
+nowTime: 2023-11-12 22:36:23
+epoch = 8  loss = 0.010623055083861065
+lr = 0.00014
+Overall Accuracy is: 80.64
+
+nowTime: 2023-11-12 22:40:43
+epoch = 9  loss = 0.009400157981370269
+lr = 0.00014
+Overall Accuracy is: 80.20
+
+nowTime: 2023-11-12 22:45:03
+epoch = 10  loss = 0.008460720700721975
+lr = 0.00014
+Overall Accuracy is: 81.20
+
+nowTime: 2023-11-12 22:49:23
+epoch = 11  loss = 0.0050480703065950904
+lr = 2.8e-05
+Overall Accuracy is: 82.61
+
+nowTime: 2023-11-12 22:53:44
+epoch = 12  loss = 0.003850742636719074
+lr = 2.8e-05
+Overall Accuracy is: 82.85
+
+nowTime: 2023-11-12 22:58:04
+epoch = 13  loss = 0.003074460111349829
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.96
+
+nowTime: 2023-11-12 23:02:25
+epoch = 14  loss = 0.0028387217584951935
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.99
+
+nowTime: 2023-11-12 23:06:45
+epoch = 15  loss = 0.002669119547247776
+lr = 1.12e-06
+Overall Accuracy is: 83.05
+
+Overall Accuracy is: 76.60
+
+Overall Accuracy is: 85.59
+
+nowTime: 2023-11-13 09:03:27
+epoch = 1  loss = 0.028765172239851738
+lr = 3.5e-05
+Overall Accuracy is: 74.46
+
+nowTime: 2023-11-13 09:07:55
+epoch = 2  loss = 0.023259988170306965
+lr = 7e-05
+Overall Accuracy is: 77.64
+
+nowTime: 2023-11-13 09:12:18
+epoch = 3  loss = 0.020500321032166986
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.92
+
+nowTime: 2023-11-13 09:16:37
+epoch = 4  loss = 0.018579639525067717
+lr = 0.00014
+Overall Accuracy is: 78.72
+
+nowTime: 2023-11-13 09:20:57
+epoch = 5  loss = 0.016120855030633367
+lr = 0.00014
+Overall Accuracy is: 79.91
+
+nowTime: 2023-11-13 09:25:25
+epoch = 6  loss = 0.013972193948359026
+lr = 0.00014
+Overall Accuracy is: 80.29
+
+nowTime: 2023-11-13 09:29:53
+epoch = 7  loss = 0.0121789372228521
+lr = 0.00014
+Overall Accuracy is: 80.52
+
+nowTime: 2023-11-13 09:34:21
+epoch = 8  loss = 0.010625877831380363
+lr = 0.00014
+Overall Accuracy is: 80.78
+
+nowTime: 2023-11-13 09:38:48
+epoch = 9  loss = 0.009433637988346287
+lr = 0.00014
+Overall Accuracy is: 80.27
+
+nowTime: 2023-11-13 09:43:15
+epoch = 10  loss = 0.008427540025962497
+lr = 0.00014
+Overall Accuracy is: 79.79
+
+nowTime: 2023-11-13 09:47:44
+epoch = 11  loss = 0.005045151348609374
+lr = 2.8e-05
+Overall Accuracy is: 81.88
+
+nowTime: 2023-11-13 09:52:07
+epoch = 12  loss = 0.0038204717734332282
+lr = 2.8e-05
+Overall Accuracy is: 82.12
+
+nowTime: 2023-11-13 09:56:31
+epoch = 13  loss = 0.003029405882615683
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.15
+
+nowTime: 2023-11-13 10:00:58
+epoch = 14  loss = 0.0027944382306434525
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.22
+
+nowTime: 2023-11-13 10:05:26
+epoch = 15  loss = 0.0026193206258945667
+lr = 1.12e-06
+Overall Accuracy is: 82.14
+
+Overall Accuracy is: 85.38
+
+Overall Accuracy is: 77.57
+
+nowTime: 2023-11-13 10:45:51
+epoch = 1  loss = 0.028610740953388045
+lr = 3.5e-05
+Overall Accuracy is: 74.79
+
+nowTime: 2023-11-13 10:50:18
+epoch = 2  loss = 0.02321303487041542
+lr = 7e-05
+Overall Accuracy is: 77.16
+
+nowTime: 2023-11-13 10:54:46
+epoch = 3  loss = 0.020511707727502708
+lr = 0.00010499999999999999
+Overall Accuracy is: 79.31
+
+nowTime: 2023-11-13 10:59:14
+epoch = 4  loss = 0.01846391154105148
+lr = 0.00014
+Overall Accuracy is: 78.73
+
+nowTime: 2023-11-13 11:03:42
+epoch = 5  loss = 0.015906143602331797
+lr = 0.00014
+Overall Accuracy is: 78.72
+
+nowTime: 2023-11-13 11:08:08
+epoch = 6  loss = 0.013686358088809372
+lr = 0.00014
+Overall Accuracy is: 80.72
+
+nowTime: 2023-11-13 11:12:34
+epoch = 7  loss = 0.011834193775657715
+lr = 0.00014
+Overall Accuracy is: 80.65
+
+nowTime: 2023-11-13 11:16:59
+epoch = 8  loss = 0.010346769033674142
+lr = 0.00014
+Overall Accuracy is: 81.40
+
+nowTime: 2023-11-13 11:21:24
+epoch = 9  loss = 0.009177342927747757
+lr = 0.00014
+Overall Accuracy is: 81.23
+
+nowTime: 2023-11-13 11:25:50
+epoch = 10  loss = 0.008205117781858125
+lr = 0.00014
+Overall Accuracy is: 80.78
+
+nowTime: 2023-11-13 11:30:16
+epoch = 11  loss = 0.004838418444265629
+lr = 2.8e-05
+Overall Accuracy is: 82.90
+
+nowTime: 2023-11-13 11:34:41
+epoch = 12  loss = 0.003625101603754458
+lr = 2.8e-05
+Overall Accuracy is: 82.56
+
+nowTime: 2023-11-13 11:39:04
+epoch = 13  loss = 0.002861706257353867
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.85
+
+nowTime: 2023-11-13 11:43:27
+epoch = 14  loss = 0.0026331267433563313
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.87
+
+nowTime: 2023-11-13 11:47:50
+epoch = 15  loss = 0.002465002631930231
+lr = 1.12e-06
+Overall Accuracy is: 82.82
+
+Overall Accuracy is: 77.15
+
+Overall Accuracy is: 85.91
+
+nowTime: 2023-11-13 15:11:56
+epoch = 1  loss = 0.028771109529029414
+lr = 3.5e-05
+Overall Accuracy is: 74.71
+
+nowTime: 2023-11-13 15:16:19
+epoch = 2  loss = 0.0231376040367026
+lr = 7e-05
+Overall Accuracy is: 77.10
+
+nowTime: 2023-11-13 15:20:44
+epoch = 3  loss = 0.020221794027075836
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.91
+
+nowTime: 2023-11-13 15:25:11
+epoch = 4  loss = 0.018192431209767098
+lr = 0.00014
+Overall Accuracy is: 79.16
+
+nowTime: 2023-11-13 15:29:37
+epoch = 5  loss = 0.015587361420716324
+lr = 0.00014
+Overall Accuracy is: 80.54
+
+nowTime: 2023-11-13 15:34:04
+epoch = 6  loss = 0.013382478226114642
+lr = 0.00014
+Overall Accuracy is: 80.63
+
+nowTime: 2023-11-13 15:38:30
+epoch = 7  loss = 0.011583982922350335
+lr = 0.00014
+Overall Accuracy is: 80.34
+
+nowTime: 2023-11-13 15:42:57
+epoch = 8  loss = 0.010115482170637024
+lr = 0.00014
+Overall Accuracy is: 81.42
+
+nowTime: 2023-11-13 15:47:20
+epoch = 9  loss = 0.008943380359382292
+lr = 0.00014
+Overall Accuracy is: 80.68
+
+nowTime: 2023-11-13 15:51:44
+epoch = 10  loss = 0.008014594143920929
+lr = 0.00014
+Overall Accuracy is: 80.93
+
+nowTime: 2023-11-13 15:56:08
+epoch = 11  loss = 0.004735833691752411
+lr = 2.8e-05
+Overall Accuracy is: 82.53
+
+nowTime: 2023-11-13 16:00:36
+epoch = 12  loss = 0.0035248718343352833
+lr = 2.8e-05
+Overall Accuracy is: 82.86
+
+nowTime: 2023-11-13 16:05:04
+epoch = 13  loss = 0.002778281948841602
+lr = 5.600000000000001e-06
+Overall Accuracy is: 83.03
+
+nowTime: 2023-11-13 16:09:30
+epoch = 14  loss = 0.002558634667845162
+lr = 5.600000000000001e-06
+Overall Accuracy is: 83.08
+
+nowTime: 2023-11-13 16:13:53
+epoch = 15  loss = 0.0023937140093526097
+lr = 1.12e-06
+Overall Accuracy is: 83.11
+
+Overall Accuracy is: 85.75
+
+Overall Accuracy is: 76.86
+
+nowTime: 2023-11-13 16:48:49
+epoch = 1  loss = 0.03316475731530562
+lr = 3.5e-05
+Overall Accuracy is: 60.96
+
+nowTime: 2023-11-13 16:53:15
+epoch = 2  loss = 0.028050851583933348
+lr = 7e-05
+Overall Accuracy is: 64.43
+
+nowTime: 2023-11-13 16:57:40
+epoch = 3  loss = 0.025279905829632226
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.20
+
+nowTime: 2023-11-13 17:02:01
+epoch = 4  loss = 0.022957102058690535
+lr = 0.00014
+Overall Accuracy is: 68.11
+
+nowTime: 2023-11-13 17:06:23
+epoch = 5  loss = 0.020001104270734715
+lr = 0.00014
+Overall Accuracy is: 69.06
+
+nowTime: 2023-11-13 17:10:48
+epoch = 6  loss = 0.017367642826351577
+lr = 0.00014
+Overall Accuracy is: 68.91
+
+nowTime: 2023-11-13 17:15:14
+epoch = 7  loss = 0.01526030677097334
+lr = 0.00014
+Overall Accuracy is: 69.19
+
+nowTime: 2023-11-13 17:19:41
+epoch = 8  loss = 0.013422745669466038
+lr = 0.00014
+Overall Accuracy is: 70.21
+
+nowTime: 2023-11-13 17:24:04
+epoch = 9  loss = 0.011948553661949293
+lr = 0.00014
+Overall Accuracy is: 71.08
+
+nowTime: 2023-11-13 17:28:26
+epoch = 10  loss = 0.01068638946878891
+lr = 0.00014
+Overall Accuracy is: 70.76
+
+nowTime: 2023-11-13 17:32:49
+epoch = 11  loss = 0.00649598440141494
+lr = 2.8e-05
+Overall Accuracy is: 73.10
+
+nowTime: 2023-11-13 17:37:15
+epoch = 12  loss = 0.004911392981377041
+lr = 2.8e-05
+Overall Accuracy is: 72.62
+
+nowTime: 2023-11-13 17:41:41
+epoch = 13  loss = 0.0038118628589272675
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.95
+
+nowTime: 2023-11-13 17:46:08
+epoch = 14  loss = 0.003495580726017859
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.71
+
+nowTime: 2023-11-13 17:50:35
+epoch = 15  loss = 0.0032691003462735346
+lr = 1.12e-06
+Overall Accuracy is: 72.63
+
+Overall Accuracy is: 63.76
+
+Overall Accuracy is: 79.58
+
+nowTime: 2023-11-13 19:08:33
+epoch = 1  loss = 0.033185249681747776
+lr = 3.5e-05
+Overall Accuracy is: 59.93
+
+nowTime: 2023-11-13 19:13:00
+epoch = 2  loss = 0.028205638889324557
+lr = 7e-05
+Overall Accuracy is: 64.16
+
+nowTime: 2023-11-13 19:17:25
+epoch = 3  loss = 0.025831345595780625
+lr = 0.00010499999999999999
+Overall Accuracy is: 65.14
+
+nowTime: 2023-11-13 19:21:52
+epoch = 4  loss = 0.023702250286484247
+lr = 0.00014
+Overall Accuracy is: 66.40
+
+nowTime: 2023-11-13 19:26:17
+epoch = 5  loss = 0.02080295625657288
+lr = 0.00014
+Overall Accuracy is: 67.98
+
+nowTime: 2023-11-13 19:30:42
+epoch = 6  loss = 0.01815138625593327
+lr = 0.00014
+Overall Accuracy is: 68.22
+
+nowTime: 2023-11-13 19:35:06
+epoch = 7  loss = 0.015911216104822903
+lr = 0.00014
+Overall Accuracy is: 69.18
+
+nowTime: 2023-11-13 19:39:29
+epoch = 8  loss = 0.013972750897670624
+lr = 0.00014
+Overall Accuracy is: 68.45
+
+nowTime: 2023-11-13 19:43:51
+epoch = 9  loss = 0.012373875671046001
+lr = 0.00014
+Overall Accuracy is: 69.46
+
+nowTime: 2023-11-13 19:48:16
+epoch = 10  loss = 0.011085420264428323
+lr = 0.00014
+Overall Accuracy is: 69.24
+
+nowTime: 2023-11-13 19:52:41
+epoch = 11  loss = 0.006770811269936024
+lr = 2.8e-05
+Overall Accuracy is: 71.64
+
+nowTime: 2023-11-13 19:57:05
+epoch = 12  loss = 0.005247171177192887
+lr = 2.8e-05
+Overall Accuracy is: 71.47
+
+nowTime: 2023-11-13 20:01:27
+epoch = 13  loss = 0.004140783150193615
+lr = 5.600000000000001e-06
+Overall Accuracy is: 71.58
+
+nowTime: 2023-11-13 20:05:50
+epoch = 14  loss = 0.003823282082625166
+lr = 5.600000000000001e-06
+Overall Accuracy is: 71.72
+
+nowTime: 2023-11-13 20:10:13
+epoch = 15  loss = 0.0035661238188109596
+lr = 1.12e-06
+Overall Accuracy is: 71.65
+
+Overall Accuracy is: 78.08
+
+Overall Accuracy is: 63.43
+
+nowTime: 2023-11-13 20:52:38
+epoch = 1  loss = 0.03320051697626131
+lr = 3.5e-05
+Overall Accuracy is: 60.62
+
+nowTime: 2023-11-13 20:57:05
+epoch = 2  loss = 0.028111002414418333
+lr = 7e-05
+Overall Accuracy is: 64.58
+
+nowTime: 2023-11-13 21:01:27
+epoch = 3  loss = 0.025497217913201406
+lr = 0.00010499999999999999
+Overall Accuracy is: 65.95
+
+nowTime: 2023-11-13 21:05:50
+epoch = 4  loss = 0.023160142650392124
+lr = 0.00014
+Overall Accuracy is: 67.58
+
+nowTime: 2023-11-13 21:10:12
+epoch = 5  loss = 0.020232450726085288
+lr = 0.00014
+Overall Accuracy is: 69.20
+
+nowTime: 2023-11-13 21:14:36
+epoch = 6  loss = 0.01766709501065659
+lr = 0.00014
+Overall Accuracy is: 69.35
+
+nowTime: 2023-11-13 21:18:58
+epoch = 7  loss = 0.015500187013967118
+lr = 0.00014
+Overall Accuracy is: 70.65
+
+nowTime: 2023-11-13 21:23:21
+epoch = 8  loss = 0.0136646000275435
+lr = 0.00014
+Overall Accuracy is: 70.39
+
+nowTime: 2023-11-13 21:27:46
+epoch = 9  loss = 0.012212587062013423
+lr = 0.00014
+Overall Accuracy is: 70.14
+
+nowTime: 2023-11-13 21:32:13
+epoch = 10  loss = 0.010964928337034944
+lr = 0.00014
+Overall Accuracy is: 70.61
+
+nowTime: 2023-11-13 21:36:40
+epoch = 11  loss = 0.006706979422451463
+lr = 2.8e-05
+Overall Accuracy is: 72.74
+
+nowTime: 2023-11-13 21:41:07
+epoch = 12  loss = 0.005115837838945312
+lr = 2.8e-05
+Overall Accuracy is: 72.84
+
+nowTime: 2023-11-13 21:45:31
+epoch = 13  loss = 0.004004069995462545
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.76
+
+nowTime: 2023-11-13 21:49:54
+epoch = 14  loss = 0.0037063302693776407
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.71
+
+nowTime: 2023-11-13 21:54:19
+epoch = 15  loss = 0.003452270350914665
+lr = 1.12e-06
+Overall Accuracy is: 72.67
+
+Overall Accuracy is: 63.86
+
+Overall Accuracy is: 79.36
+
+nowTime: 2023-11-14 08:48:48
+epoch = 1  loss = 0.03316447460407676
+lr = 3.5e-05
+Overall Accuracy is: 60.53
+
+nowTime: 2023-11-14 08:53:15
+epoch = 2  loss = 0.028027067190164193
+lr = 7e-05
+Overall Accuracy is: 64.41
+
+nowTime: 2023-11-14 08:57:34
+epoch = 3  loss = 0.02512548577792637
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.42
+
+nowTime: 2023-11-14 09:01:54
+epoch = 4  loss = 0.02262446396975725
+lr = 0.00014
+Overall Accuracy is: 67.50
+
+nowTime: 2023-11-14 09:06:13
+epoch = 5  loss = 0.019548353971293238
+lr = 0.00014
+Overall Accuracy is: 69.44
+
+nowTime: 2023-11-14 09:10:32
+epoch = 6  loss = 0.016917159812119043
+lr = 0.00014
+Overall Accuracy is: 69.03
+
+nowTime: 2023-11-14 09:14:51
+epoch = 7  loss = 0.014734591291914706
+lr = 0.00014
+Overall Accuracy is: 70.26
+
+nowTime: 2023-11-14 09:19:10
+epoch = 8  loss = 0.012880510089896147
+lr = 0.00014
+Overall Accuracy is: 70.69
+
+nowTime: 2023-11-14 09:23:32
+epoch = 9  loss = 0.011462324188519061
+lr = 0.00014
+Overall Accuracy is: 71.23
+
+nowTime: 2023-11-14 09:27:57
+epoch = 10  loss = 0.010242567853887998
+lr = 0.00014
+Overall Accuracy is: 71.43
+
+nowTime: 2023-11-14 09:32:22
+epoch = 11  loss = 0.0060838515858861065
+lr = 2.8e-05
+Overall Accuracy is: 73.36
+
+nowTime: 2023-11-14 09:36:47
+epoch = 12  loss = 0.004522629078109458
+lr = 2.8e-05
+Overall Accuracy is: 73.59
+
+nowTime: 2023-11-14 09:41:14
+epoch = 13  loss = 0.0035023359549824756
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.56
+
+nowTime: 2023-11-14 09:45:39
+epoch = 14  loss = 0.003205069214488654
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.55
+
+nowTime: 2023-11-14 09:50:06
+epoch = 15  loss = 0.00297256678612739
+lr = 1.12e-06
+Overall Accuracy is: 73.65
+
+Overall Accuracy is: 79.17
+
+Overall Accuracy is: 63.73
+
+nowTime: 2023-11-14 13:35:15
+epoch = 1  loss = 0.03312613034981105
+lr = 3.5e-05
+Overall Accuracy is: 60.63
+
+nowTime: 2023-11-14 13:39:41
+epoch = 2  loss = 0.027916106722403473
+lr = 7e-05
+Overall Accuracy is: 64.17
+
+nowTime: 2023-11-14 13:44:07
+epoch = 3  loss = 0.02498792432304164
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.29
+
+nowTime: 2023-11-14 13:48:34
+epoch = 4  loss = 0.022549042030652916
+lr = 0.00014
+Overall Accuracy is: 68.09
+
+nowTime: 2023-11-14 13:53:01
+epoch = 5  loss = 0.01951072917091097
+lr = 0.00014
+Overall Accuracy is: 69.39
+
+nowTime: 2023-11-14 13:57:28
+epoch = 6  loss = 0.01692909574147054
+lr = 0.00014
+Overall Accuracy is: 69.62
+
+nowTime: 2023-11-14 14:01:50
+epoch = 7  loss = 0.014696483419921308
+lr = 0.00014
+Overall Accuracy is: 70.68
+
+nowTime: 2023-11-14 14:06:13
+epoch = 8  loss = 0.012862112162238782
+lr = 0.00014
+Overall Accuracy is: 69.99
+
+nowTime: 2023-11-14 14:10:37
+epoch = 9  loss = 0.01139092818274697
+lr = 0.00014
+Overall Accuracy is: 70.70
+
+nowTime: 2023-11-14 14:15:05
+epoch = 10  loss = 0.010187356982610378
+lr = 0.00014
+Overall Accuracy is: 72.17
+
+nowTime: 2023-11-14 14:19:32
+epoch = 11  loss = 0.006027451568502947
+lr = 2.8e-05
+Overall Accuracy is: 73.44
+
+nowTime: 2023-11-14 14:23:58
+epoch = 12  loss = 0.004477724331105103
+lr = 2.8e-05
+Overall Accuracy is: 72.92
+
+nowTime: 2023-11-14 14:28:22
+epoch = 13  loss = 0.003439179687132115
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.19
+
+nowTime: 2023-11-14 14:32:44
+epoch = 14  loss = 0.003127712238077362
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.15
+
+nowTime: 2023-11-14 14:37:11
+epoch = 15  loss = 0.0029080281010915743
+lr = 1.12e-06
+Overall Accuracy is: 73.29
+
+Overall Accuracy is: 63.47
+
+Overall Accuracy is: 78.97
+
+nowTime: 2023-11-14 14:55:13
+epoch = 1  loss = 0.034467642288803106
+lr = 3.5e-05
+Overall Accuracy is: 57.46
+
+nowTime: 2023-11-14 14:58:16
+epoch = 2  loss = 0.029058525332846398
+lr = 7e-05
+Overall Accuracy is: 63.91
+
+nowTime: 2023-11-14 15:01:12
+epoch = 3  loss = 0.026610482860184814
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.71
+
+nowTime: 2023-11-14 15:04:08
+epoch = 4  loss = 0.02466680864479233
+lr = 0.00014
+Overall Accuracy is: 68.44
+
+nowTime: 2023-11-14 15:07:06
+epoch = 5  loss = 0.022029623854905367
+lr = 0.00014
+Overall Accuracy is: 68.53
+
+nowTime: 2023-11-14 15:10:03
+epoch = 6  loss = 0.01961201916423601
+lr = 0.00014
+Overall Accuracy is: 70.51
+
+nowTime: 2023-11-14 15:13:00
+epoch = 7  loss = 0.017470908305342703
+lr = 0.00014
+Overall Accuracy is: 69.85
+
+nowTime: 2023-11-14 15:15:57
+epoch = 8  loss = 0.015468758054148697
+lr = 0.00014
+Overall Accuracy is: 71.12
+
+nowTime: 2023-11-14 15:18:53
+epoch = 9  loss = 0.01374524989163885
+lr = 0.00014
+Overall Accuracy is: 70.57
+
+nowTime: 2023-11-14 15:21:48
+epoch = 10  loss = 0.012348122975458828
+lr = 0.00014
+Overall Accuracy is: 71.47
+
+nowTime: 2023-11-14 15:24:45
+epoch = 11  loss = 0.008034471718932018
+lr = 2.8e-05
+Overall Accuracy is: 73.61
+
+nowTime: 2023-11-14 15:27:41
+epoch = 12  loss = 0.006460870862294386
+lr = 2.8e-05
+Overall Accuracy is: 73.02
+
+nowTime: 2023-11-14 15:30:37
+epoch = 13  loss = 0.005319924073609181
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.22
+
+nowTime: 2023-11-14 15:33:31
+epoch = 14  loss = 0.0050009101883186965
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.00
+
+nowTime: 2023-11-14 15:36:26
+epoch = 15  loss = 0.00474359468921178
+lr = 1.12e-06
+Overall Accuracy is: 73.14
+
+Overall Accuracy is: 73.52
+
+nowTime: 2023-11-15 09:06:44
+epoch = 1  loss = 0.03428945772865097
+lr = 3.5e-05
+Overall Accuracy is: 57.31
+
+nowTime: 2023-11-15 09:09:38
+epoch = 2  loss = 0.028856516848296068
+lr = 7e-05
+Overall Accuracy is: 64.89
+
+nowTime: 2023-11-15 09:12:33
+epoch = 3  loss = 0.026320511793543028
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.85
+
+nowTime: 2023-11-15 09:15:27
+epoch = 4  loss = 0.0243827256304471
+lr = 0.00014
+Overall Accuracy is: 69.02
+
+nowTime: 2023-11-15 09:18:24
+epoch = 5  loss = 0.021665708484670032
+lr = 0.00014
+Overall Accuracy is: 68.71
+
+nowTime: 2023-11-15 09:21:21
+epoch = 6  loss = 0.01925027684274534
+lr = 0.00014
+Overall Accuracy is: 71.71
+
+nowTime: 2023-11-15 09:24:18
+epoch = 7  loss = 0.017051736405933653
+lr = 0.00014
+Overall Accuracy is: 70.53
+
+nowTime: 2023-11-15 09:27:15
+epoch = 8  loss = 0.015165352394333515
+lr = 0.00014
+Overall Accuracy is: 71.24
+
+nowTime: 2023-11-15 09:30:12
+epoch = 9  loss = 0.013632276954221138
+lr = 0.00014
+Overall Accuracy is: 71.24
+
+nowTime: 2023-11-15 09:33:08
+epoch = 10  loss = 0.012290294583818752
+lr = 0.00014
+Overall Accuracy is: 71.18
+
+nowTime: 2023-11-15 09:36:04
+epoch = 11  loss = 0.008001540653520102
+lr = 2.8e-05
+Overall Accuracy is: 72.86
+
+nowTime: 2023-11-15 09:39:01
+epoch = 12  loss = 0.006335128846079324
+lr = 2.8e-05
+Overall Accuracy is: 73.16
+
+nowTime: 2023-11-15 09:41:59
+epoch = 13  loss = 0.005134598770110745
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.16
+
+nowTime: 2023-11-15 09:44:56
+epoch = 14  loss = 0.004805925348662551
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.06
+
+nowTime: 2023-11-15 09:47:53
+epoch = 15  loss = 0.004549674600376103
+lr = 1.12e-06
+Overall Accuracy is: 73.14
+
+Overall Accuracy is: 74.16
+
+nowTime: 2023-11-15 14:15:39
+epoch = 1  loss = 0.034313086457313624
+lr = 3.5e-05
+Overall Accuracy is: 58.15
+
+nowTime: 2023-11-15 14:18:35
+epoch = 2  loss = 0.028872460534052836
+lr = 7e-05
+Overall Accuracy is: 64.01
+
+nowTime: 2023-11-15 14:21:31
+epoch = 3  loss = 0.026181084759805844
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.87
+
+nowTime: 2023-11-15 14:24:26
+epoch = 4  loss = 0.024024952611692
+lr = 0.00014
+Overall Accuracy is: 68.75
+
+nowTime: 2023-11-15 14:27:23
+epoch = 5  loss = 0.021297940352875355
+lr = 0.00014
+Overall Accuracy is: 70.24
+
+nowTime: 2023-11-15 14:30:19
+epoch = 6  loss = 0.018821794975738503
+lr = 0.00014
+Overall Accuracy is: 71.45
+
+nowTime: 2023-11-15 14:33:15
+epoch = 7  loss = 0.01659978653744029
+lr = 0.00014
+Overall Accuracy is: 71.45
+
+nowTime: 2023-11-15 14:36:12
+epoch = 8  loss = 0.014816356260205112
+lr = 0.00014
+Overall Accuracy is: 71.92
+
+nowTime: 2023-11-15 14:39:09
+epoch = 9  loss = 0.013283817257453793
+lr = 0.00014
+Overall Accuracy is: 70.87
+
+nowTime: 2023-11-15 14:42:07
+epoch = 10  loss = 0.011974637762351711
+lr = 0.00014
+Overall Accuracy is: 71.02
+
+nowTime: 2023-11-15 14:45:03
+epoch = 11  loss = 0.007643806202106166
+lr = 2.8e-05
+Overall Accuracy is: 73.71
+
+nowTime: 2023-11-15 14:48:00
+epoch = 12  loss = 0.005990133837712351
+lr = 2.8e-05
+Overall Accuracy is: 74.02
+
+nowTime: 2023-11-15 14:50:56
+epoch = 13  loss = 0.004835199999078125
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.73
+
+nowTime: 2023-11-15 14:53:53
+epoch = 14  loss = 0.004507971830356611
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.65
+
+nowTime: 2023-11-15 14:56:49
+epoch = 15  loss = 0.004235403680550571
+lr = 1.12e-06
+Overall Accuracy is: 73.71
+
+Overall Accuracy is: 73.81
+
+nowTime: 2023-11-15 16:00:19
+epoch = 1  loss = 0.03432982453605566
+lr = 3.5e-05
+Overall Accuracy is: 58.35
+
+nowTime: 2023-11-15 16:03:20
+epoch = 2  loss = 0.028842178460607375
+lr = 7e-05
+Overall Accuracy is: 64.40
+
+nowTime: 2023-11-15 16:06:21
+epoch = 3  loss = 0.026100564808755024
+lr = 0.00010499999999999999
+Overall Accuracy is: 68.10
+
+nowTime: 2023-11-15 16:09:18
+epoch = 4  loss = 0.023974473789535666
+lr = 0.00014
+Overall Accuracy is: 68.77
+
+nowTime: 2023-11-15 16:12:15
+epoch = 5  loss = 0.021117486332843764
+lr = 0.00014
+Overall Accuracy is: 69.73
+
+nowTime: 2023-11-15 16:15:12
+epoch = 6  loss = 0.018583612343287526
+lr = 0.00014
+Overall Accuracy is: 71.34
+
+nowTime: 2023-11-15 16:18:09
+epoch = 7  loss = 0.016429736047971325
+lr = 0.00014
+Overall Accuracy is: 70.61
+
+nowTime: 2023-11-15 16:21:05
+epoch = 8  loss = 0.014622055920986947
+lr = 0.00014
+Overall Accuracy is: 71.79
+
+nowTime: 2023-11-15 16:24:00
+epoch = 9  loss = 0.013042955230684605
+lr = 0.00014
+Overall Accuracy is: 70.83
+
+nowTime: 2023-11-15 16:26:56
+epoch = 10  loss = 0.011721035589971868
+lr = 0.00014
+Overall Accuracy is: 71.75
+
+nowTime: 2023-11-15 16:29:52
+epoch = 11  loss = 0.007499416254383819
+lr = 2.8e-05
+Overall Accuracy is: 73.24
+
+nowTime: 2023-11-15 16:32:48
+epoch = 12  loss = 0.005923027023510187
+lr = 2.8e-05
+Overall Accuracy is: 73.53
+
+nowTime: 2023-11-15 16:35:44
+epoch = 13  loss = 0.004776101150743912
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.59
+
+nowTime: 2023-11-15 16:38:40
+epoch = 14  loss = 0.004447935026180479
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.63
+
+nowTime: 2023-11-15 16:41:38
+epoch = 15  loss = 0.004212915489453058
+lr = 1.12e-06
+Overall Accuracy is: 73.77
+
+Overall Accuracy is: 73.61
+
+nowTime: 2023-11-15 19:55:53
+epoch = 1  loss = 0.03447518911988538
+lr = 3.5e-05
+Overall Accuracy is: 57.90
+
+nowTime: 2023-11-15 19:58:49
+epoch = 2  loss = 0.0290483771949201
+lr = 7e-05
+Overall Accuracy is: 63.40
+
+nowTime: 2023-11-15 20:01:46
+epoch = 3  loss = 0.026260386751179948
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.50
+
+nowTime: 2023-11-15 20:04:42
+epoch = 4  loss = 0.02413537893118559
+lr = 0.00014
+Overall Accuracy is: 68.85
+
+nowTime: 2023-11-15 20:07:38
+epoch = 5  loss = 0.021205027931960618
+lr = 0.00014
+Overall Accuracy is: 69.73
+
+nowTime: 2023-11-15 20:10:34
+epoch = 6  loss = 0.0186035835957051
+lr = 0.00014
+Overall Accuracy is: 70.26
+
+nowTime: 2023-11-15 20:13:33
+epoch = 7  loss = 0.016361993461379423
+lr = 0.00014
+Overall Accuracy is: 70.26
+
+nowTime: 2023-11-15 20:16:32
+epoch = 8  loss = 0.014466859637174773
+lr = 0.00014
+Overall Accuracy is: 71.59
+
+nowTime: 2023-11-15 20:19:30
+epoch = 9  loss = 0.012899194603463093
+lr = 0.00014
+Overall Accuracy is: 72.02
+
+nowTime: 2023-11-15 20:22:26
+epoch = 10  loss = 0.011669892003013499
+lr = 0.00014
+Overall Accuracy is: 71.06
+
+nowTime: 2023-11-15 20:25:21
+epoch = 11  loss = 0.007386997383937761
+lr = 2.8e-05
+Overall Accuracy is: 73.59
+
+nowTime: 2023-11-15 20:28:16
+epoch = 12  loss = 0.005782198417037488
+lr = 2.8e-05
+Overall Accuracy is: 73.43
+
+nowTime: 2023-11-15 20:31:14
+epoch = 13  loss = 0.004666632206426468
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.73
+
+nowTime: 2023-11-15 20:34:13
+epoch = 14  loss = 0.0043435404003140275
+lr = 5.600000000000001e-06
+Overall Accuracy is: 74.06
+
+nowTime: 2023-11-15 20:37:11
+epoch = 15  loss = 0.004090172496279302
+lr = 1.12e-06
+Overall Accuracy is: 74.24
+
+Overall Accuracy is: 73.72
+
+nowTime: 2023-11-15 21:05:30
+epoch = 1  loss = 0.03401605520598792
+lr = 3.5e-05
+Overall Accuracy is: 57.80
+
+nowTime: 2023-11-15 21:08:31
+epoch = 2  loss = 0.028684380375417408
+lr = 7e-05
+Overall Accuracy is: 65.13
+
+nowTime: 2023-11-15 21:11:31
+epoch = 3  loss = 0.026074681060895062
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.46
+
+nowTime: 2023-11-15 21:14:28
+epoch = 4  loss = 0.024159320714529635
+lr = 0.00014
+Overall Accuracy is: 69.10
+
+nowTime: 2023-11-15 21:17:26
+epoch = 5  loss = 0.021395762039375134
+lr = 0.00014
+Overall Accuracy is: 70.28
+
+nowTime: 2023-11-15 21:20:24
+epoch = 6  loss = 0.0189069560425436
+lr = 0.00014
+Overall Accuracy is: 71.00
+
+nowTime: 2023-11-15 21:23:24
+epoch = 7  loss = 0.016728127336748454
+lr = 0.00014
+Overall Accuracy is: 70.47
+
+nowTime: 2023-11-15 21:26:23
+epoch = 8  loss = 0.014900544103063252
+lr = 0.00014
+Overall Accuracy is: 71.22
+
+nowTime: 2023-11-15 21:29:23
+epoch = 9  loss = 0.01339826567042234
+lr = 0.00014
+Overall Accuracy is: 71.28
+
+nowTime: 2023-11-15 21:32:24
+epoch = 10  loss = 0.012131201335049822
+lr = 0.00014
+Overall Accuracy is: 71.45
+
+nowTime: 2023-11-15 21:35:22
+epoch = 11  loss = 0.007790822395832768
+lr = 2.8e-05
+Overall Accuracy is: 72.69
+
+nowTime: 2023-11-15 21:38:20
+epoch = 12  loss = 0.006115020881666075
+lr = 2.8e-05
+Overall Accuracy is: 72.73
+
+nowTime: 2023-11-15 21:41:18
+epoch = 13  loss = 0.00489230513841429
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.33
+
+nowTime: 2023-11-15 21:44:16
+epoch = 14  loss = 0.004541821044163456
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.39
+
+nowTime: 2023-11-15 21:47:14
+epoch = 15  loss = 0.004263825807683407
+lr = 1.12e-06
+Overall Accuracy is: 73.45
+
+Overall Accuracy is: 73.41
+
+nowTime: 2023-11-15 22:02:06
+epoch = 1  loss = 0.03428341208739481
+lr = 3.5e-05
+Overall Accuracy is: 57.46
+
+nowTime: 2023-11-15 22:05:03
+epoch = 2  loss = 0.02883266194298603
+lr = 7e-05
+Overall Accuracy is: 64.89
+
+nowTime: 2023-11-15 22:08:04
+epoch = 3  loss = 0.026068858195256162
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.59
+
+nowTime: 2023-11-15 22:11:04
+epoch = 4  loss = 0.024091938402450427
+lr = 0.00014
+Overall Accuracy is: 69.18
+
+nowTime: 2023-11-15 22:14:04
+epoch = 5  loss = 0.02152290049383627
+lr = 0.00014
+Overall Accuracy is: 70.08
+
+nowTime: 2023-11-15 22:17:05
+epoch = 6  loss = 0.01927815412211162
+lr = 0.00014
+Overall Accuracy is: 71.04
+
+nowTime: 2023-11-15 22:20:05
+epoch = 7  loss = 0.01722560016088934
+lr = 0.00014
+Overall Accuracy is: 71.59
+
+nowTime: 2023-11-15 22:23:06
+epoch = 8  loss = 0.015504035724857037
+lr = 0.00014
+Overall Accuracy is: 70.63
+
+nowTime: 2023-11-15 22:26:07
+epoch = 9  loss = 0.01406823074525083
+lr = 0.00014
+Overall Accuracy is: 71.10
+
+nowTime: 2023-11-15 22:29:06
+epoch = 10  loss = 0.012763632040926875
+lr = 0.00014
+Overall Accuracy is: 71.45
+
+nowTime: 2023-11-15 22:32:04
+epoch = 11  loss = 0.00833940992186613
+lr = 2.8e-05
+Overall Accuracy is: 73.06
+
+nowTime: 2023-11-15 22:35:02
+epoch = 12  loss = 0.006621496978812571
+lr = 2.8e-05
+Overall Accuracy is: 73.35
+
+nowTime: 2023-11-15 22:38:02
+epoch = 13  loss = 0.0053253926909402815
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.26
+
+nowTime: 2023-11-15 22:41:02
+epoch = 14  loss = 0.004960822845795836
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.53
+
+nowTime: 2023-11-15 22:44:03
+epoch = 15  loss = 0.00467594207426613
+lr = 1.12e-06
+Overall Accuracy is: 73.53
+
+Overall Accuracy is: 74.06
+
+nowTime: 2023-11-16 09:03:39
+epoch = 1  loss = 0.03311313730433829
+lr = 3.5e-05
+Overall Accuracy is: 60.64
+
+nowTime: 2023-11-16 09:08:11
+epoch = 2  loss = 0.027901452654931987
+lr = 7e-05
+Overall Accuracy is: 64.85
+
+nowTime: 2023-11-16 09:12:38
+epoch = 3  loss = 0.024967870527663062
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.90
+
+nowTime: 2023-11-16 09:17:03
+epoch = 4  loss = 0.02253111490913303
+lr = 0.00014
+Overall Accuracy is: 67.29
+
+nowTime: 2023-11-16 09:21:28
+epoch = 5  loss = 0.019616142783629557
+lr = 0.00014
+Overall Accuracy is: 69.20
+
+nowTime: 2023-11-16 09:25:54
+epoch = 6  loss = 0.017166040309337174
+lr = 0.00014
+Overall Accuracy is: 69.68
+
+nowTime: 2023-11-16 09:30:19
+epoch = 7  loss = 0.015191232050249534
+lr = 0.00014
+Overall Accuracy is: 70.83
+
+nowTime: 2023-11-16 09:34:43
+epoch = 8  loss = 0.013564214330676647
+lr = 0.00014
+Overall Accuracy is: 69.68
+
+nowTime: 2023-11-16 09:39:06
+epoch = 9  loss = 0.012297322872885218
+lr = 0.00014
+Overall Accuracy is: 70.23
+
+nowTime: 2023-11-16 09:43:28
+epoch = 10  loss = 0.011170633731893182
+lr = 0.00014
+Overall Accuracy is: 70.48
+
+nowTime: 2023-11-16 09:47:51
+epoch = 11  loss = 0.0068294869710532
+lr = 2.8e-05
+Overall Accuracy is: 73.08
+
+nowTime: 2023-11-16 09:52:13
+epoch = 12  loss = 0.005252243808808562
+lr = 2.8e-05
+Overall Accuracy is: 73.02
+
+nowTime: 2023-11-16 09:56:35
+epoch = 13  loss = 0.004050532629173577
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.11
+
+nowTime: 2023-11-16 10:00:58
+epoch = 14  loss = 0.0037136398374659225
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.11
+
+nowTime: 2023-11-16 10:05:20
+epoch = 15  loss = 0.0034566227837624975
+lr = 1.12e-06
+Overall Accuracy is: 73.21
+
+Overall Accuracy is: 80.23
+
+Overall Accuracy is: 62.73
+
+nowTime: 2023-11-16 10:36:21
+epoch = 1  loss = 0.02849141063738116
+lr = 3.5e-05
+Overall Accuracy is: 75.45
+
+nowTime: 2023-11-16 10:40:44
+epoch = 2  loss = 0.02299907302875428
+lr = 7e-05
+Overall Accuracy is: 77.95
+
+nowTime: 2023-11-16 10:45:10
+epoch = 3  loss = 0.02018316549539661
+lr = 0.00010499999999999999
+Overall Accuracy is: 79.27
+
+nowTime: 2023-11-16 10:49:40
+epoch = 4  loss = 0.018306551987578155
+lr = 0.00014
+Overall Accuracy is: 78.50
+
+nowTime: 2023-11-16 10:54:09
+epoch = 5  loss = 0.01586669242610629
+lr = 0.00014
+Overall Accuracy is: 79.32
+
+nowTime: 2023-11-16 10:58:37
+epoch = 6  loss = 0.013737883086112623
+lr = 0.00014
+Overall Accuracy is: 79.75
+
+nowTime: 2023-11-16 11:03:06
+epoch = 7  loss = 0.011981261558455046
+lr = 0.00014
+Overall Accuracy is: 79.67
+
+nowTime: 2023-11-16 11:07:34
+epoch = 8  loss = 0.010544608321906939
+lr = 0.00014
+Overall Accuracy is: 80.81
+
+nowTime: 2023-11-16 11:12:02
+epoch = 9  loss = 0.00938615935529343
+lr = 0.00014
+Overall Accuracy is: 80.56
+
+nowTime: 2023-11-16 11:16:31
+epoch = 10  loss = 0.008479156315864525
+lr = 0.00014
+Overall Accuracy is: 81.33
+
+nowTime: 2023-11-16 11:20:58
+epoch = 11  loss = 0.005072047213569971
+lr = 2.8e-05
+Overall Accuracy is: 82.81
+
+nowTime: 2023-11-16 11:25:25
+epoch = 12  loss = 0.0038378753176852745
+lr = 2.8e-05
+Overall Accuracy is: 82.88
+
+nowTime: 2023-11-16 11:29:52
+epoch = 13  loss = 0.0030344360145431746
+lr = 5.600000000000001e-06
+Overall Accuracy is: 83.15
+
+nowTime: 2023-11-16 11:34:20
+epoch = 14  loss = 0.0027833933033189497
+lr = 5.600000000000001e-06
+Overall Accuracy is: 83.05
+
+nowTime: 2023-11-16 11:38:49
+epoch = 15  loss = 0.0026111131442652425
+lr = 1.12e-06
+Overall Accuracy is: 83.13
+
+Overall Accuracy is: 77.15
+
+Overall Accuracy is: 85.82
+
+nowTime: 2023-11-16 13:25:03
+epoch = 1  loss = 0.028626372602683216
+lr = 3.5e-05
+Overall Accuracy is: 74.88
+
+nowTime: 2023-11-16 13:29:28
+epoch = 2  loss = 0.02308250405092085
+lr = 7e-05
+Overall Accuracy is: 77.93
+
+nowTime: 2023-11-16 13:33:54
+epoch = 3  loss = 0.020212197987236193
+lr = 0.00010499999999999999
+Overall Accuracy is: 79.37
+
+nowTime: 2023-11-16 13:38:19
+epoch = 4  loss = 0.01832353538979881
+lr = 0.00014
+Overall Accuracy is: 78.61
+
+nowTime: 2023-11-16 13:42:43
+epoch = 5  loss = 0.01599460662216059
+lr = 0.00014
+Overall Accuracy is: 79.46
+
+nowTime: 2023-11-16 13:47:08
+epoch = 6  loss = 0.014021876262651159
+lr = 0.00014
+Overall Accuracy is: 80.16
+
+nowTime: 2023-11-16 13:51:35
+epoch = 7  loss = 0.012319030206563494
+lr = 0.00014
+Overall Accuracy is: 80.06
+
+nowTime: 2023-11-16 13:56:02
+epoch = 8  loss = 0.010887335006626137
+lr = 0.00014
+Overall Accuracy is: 80.51
+
+nowTime: 2023-11-16 14:00:26
+epoch = 9  loss = 0.009753983043927121
+lr = 0.00014
+Overall Accuracy is: 80.42
+
+nowTime: 2023-11-16 14:04:51
+epoch = 10  loss = 0.008953357469824374
+lr = 0.00014
+Overall Accuracy is: 79.27
+
+nowTime: 2023-11-16 14:09:16
+epoch = 11  loss = 0.00560732610311632
+lr = 2.8e-05
+Overall Accuracy is: 81.81
+
+nowTime: 2023-11-16 14:13:41
+epoch = 12  loss = 0.0042931853231010985
+lr = 2.8e-05
+Overall Accuracy is: 82.09
+
+nowTime: 2023-11-16 14:18:09
+epoch = 13  loss = 0.0034037630546802453
+lr = 5.600000000000001e-06
+Overall Accuracy is: 81.91
+
+nowTime: 2023-11-16 14:22:38
+epoch = 14  loss = 0.0031536781755419382
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.18
+
+nowTime: 2023-11-16 14:27:08
+epoch = 15  loss = 0.0029515724083173413
+lr = 1.12e-06
+Overall Accuracy is: 82.06
+
+Overall Accuracy is: 85.95
+
+Overall Accuracy is: 75.72
+
+nowTime: 2023-11-16 14:57:19
+epoch = 1  loss = 0.0331191242576741
+lr = 3.5e-05
+Overall Accuracy is: 60.64
+
+nowTime: 2023-11-16 15:01:48
+epoch = 2  loss = 0.028028677964407393
+lr = 7e-05
+Overall Accuracy is: 64.71
+
+nowTime: 2023-11-16 15:06:13
+epoch = 3  loss = 0.02526946771109936
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.54
+
+nowTime: 2023-11-16 15:10:37
+epoch = 4  loss = 0.022962574935858085
+lr = 0.00014
+Overall Accuracy is: 67.09
+
+nowTime: 2023-11-16 15:15:05
+epoch = 5  loss = 0.02006449908381313
+lr = 0.00014
+Overall Accuracy is: 69.28
+
+nowTime: 2023-11-16 15:19:30
+epoch = 6  loss = 0.017619320280754667
+lr = 0.00014
+Overall Accuracy is: 68.68
+
+nowTime: 2023-11-16 15:23:55
+epoch = 7  loss = 0.015610863182735399
+lr = 0.00014
+Overall Accuracy is: 69.99
+
+nowTime: 2023-11-16 15:28:20
+epoch = 8  loss = 0.013800589421830503
+lr = 0.00014
+Overall Accuracy is: 69.47
+
+nowTime: 2023-11-16 15:32:44
+epoch = 9  loss = 0.01223271625284175
+lr = 0.00014
+Overall Accuracy is: 70.47
+
+nowTime: 2023-11-16 15:37:09
+epoch = 10  loss = 0.010943062545421057
+lr = 0.00014
+Overall Accuracy is: 70.10
+
+nowTime: 2023-11-16 15:41:33
+epoch = 11  loss = 0.006695736932469513
+lr = 2.8e-05
+Overall Accuracy is: 72.34
+
+nowTime: 2023-11-16 15:45:57
+epoch = 12  loss = 0.005066027223878304
+lr = 2.8e-05
+Overall Accuracy is: 72.55
+
+nowTime: 2023-11-16 15:50:22
+epoch = 13  loss = 0.003958224552124342
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.49
+
+nowTime: 2023-11-16 15:54:48
+epoch = 14  loss = 0.003633993873288324
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.39
+
+nowTime: 2023-11-16 15:59:14
+epoch = 15  loss = 0.003388459804022787
+lr = 1.12e-06
+Overall Accuracy is: 72.38
+
+Overall Accuracy is: 64.27
+
+Overall Accuracy is: 79.43
+
+nowTime: 2023-11-16 20:01:47
+epoch = 1  loss = 0.034416924788955666
+lr = 3.5e-05
+Overall Accuracy is: 57.39
+
+nowTime: 2023-11-16 20:04:47
+epoch = 2  loss = 0.028792744184087588
+lr = 7e-05
+Overall Accuracy is: 64.81
+
+nowTime: 2023-11-16 20:07:44
+epoch = 3  loss = 0.026212367079619003
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.40
+
+nowTime: 2023-11-16 20:10:40
+epoch = 4  loss = 0.024322768066238332
+lr = 0.00014
+Overall Accuracy is: 69.20
+
+nowTime: 2023-11-16 20:13:35
+epoch = 5  loss = 0.021781617737803106
+lr = 0.00014
+Overall Accuracy is: 68.48
+
+nowTime: 2023-11-16 20:16:29
+epoch = 6  loss = 0.01937838553248154
+lr = 0.00014
+Overall Accuracy is: 71.18
+
+nowTime: 2023-11-16 20:19:23
+epoch = 7  loss = 0.0172633579591606
+lr = 0.00014
+Overall Accuracy is: 70.02
+
+nowTime: 2023-11-16 20:22:16
+epoch = 8  loss = 0.01551429186584887
+lr = 0.00014
+Overall Accuracy is: 71.53
+
+nowTime: 2023-11-16 20:25:09
+epoch = 9  loss = 0.013998136153098178
+lr = 0.00014
+Overall Accuracy is: 71.65
+
+nowTime: 2023-11-16 20:28:03
+epoch = 10  loss = 0.01282692569957984
+lr = 0.00014
+Overall Accuracy is: 71.12
+
+nowTime: 2023-11-16 20:30:57
+epoch = 11  loss = 0.0084529868245646
+lr = 2.8e-05
+Overall Accuracy is: 72.57
+
+nowTime: 2023-11-16 20:33:53
+epoch = 12  loss = 0.006765273634702655
+lr = 2.8e-05
+Overall Accuracy is: 73.28
+
+nowTime: 2023-11-16 20:36:49
+epoch = 13  loss = 0.00547021281234002
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.59
+
+nowTime: 2023-11-16 20:39:46
+epoch = 14  loss = 0.005111193618461762
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.26
+
+nowTime: 2023-11-16 20:42:42
+epoch = 15  loss = 0.00480448133356585
+lr = 1.12e-06
+Overall Accuracy is: 73.37
+
+Overall Accuracy is: 73.68
+
+nowTime: 2023-11-16 22:08:53
+epoch = 1  loss = 0.03311698152309062
+lr = 3.5e-05
+Overall Accuracy is: 60.54
+
+nowTime: 2023-11-16 22:13:21
+epoch = 2  loss = 0.028108423318739705
+lr = 7e-05
+Overall Accuracy is: 64.77
+
+nowTime: 2023-11-16 22:17:49
+epoch = 3  loss = 0.025544666518944974
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.08
+
+nowTime: 2023-11-16 22:22:18
+epoch = 4  loss = 0.02343173333397557
+lr = 0.00014
+Overall Accuracy is: 67.43
+
+nowTime: 2023-11-16 22:26:47
+epoch = 5  loss = 0.02066013254036707
+lr = 0.00014
+Overall Accuracy is: 68.78
+
+nowTime: 2023-11-16 22:31:15
+epoch = 6  loss = 0.018184092065014767
+lr = 0.00014
+Overall Accuracy is: 69.40
+
+nowTime: 2023-11-16 22:35:41
+epoch = 7  loss = 0.016221625914972834
+lr = 0.00014
+Overall Accuracy is: 70.30
+
+nowTime: 2023-11-16 22:40:09
+epoch = 8  loss = 0.014501841361230049
+lr = 0.00014
+Overall Accuracy is: 69.33
+
+nowTime: 2023-11-16 22:44:38
+epoch = 9  loss = 0.012984517226903662
+lr = 0.00014
+Overall Accuracy is: 70.53
+
+nowTime: 2023-11-16 22:49:04
+epoch = 10  loss = 0.0118117755245205
+lr = 0.00014
+Overall Accuracy is: 70.44
+
+nowTime: 2023-11-16 22:53:33
+epoch = 11  loss = 0.007509157337946941
+lr = 2.8e-05
+Overall Accuracy is: 71.91
+
+nowTime: 2023-11-16 22:58:01
+epoch = 12  loss = 0.005877618381324868
+lr = 2.8e-05
+Overall Accuracy is: 71.97
+
+nowTime: 2023-11-16 23:02:30
+epoch = 13  loss = 0.004605889043259173
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.27
+
+nowTime: 2023-11-16 23:06:59
+epoch = 14  loss = 0.0042486948182694235
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.15
+
+nowTime: 2023-11-16 23:11:27
+epoch = 15  loss = 0.003963819065626927
+lr = 1.12e-06
+Overall Accuracy is: 72.19
+
+Overall Accuracy is: 78.73
+
+Overall Accuracy is: 63.08
+
+nowTime: 2023-11-17 12:27:49
+epoch = 1  loss = 0.028707175779565695
+lr = 3.5e-05
+Overall Accuracy is: 74.75
+
+nowTime: 2023-11-17 12:32:21
+epoch = 2  loss = 0.02327354955971399
+lr = 7e-05
+Overall Accuracy is: 76.93
+
+nowTime: 2023-11-17 12:36:46
+epoch = 3  loss = 0.020560872047989294
+lr = 0.00010499999999999999
+Overall Accuracy is: 79.53
+
+nowTime: 2023-11-17 12:41:11
+epoch = 4  loss = 0.018725646714602782
+lr = 0.00014
+Overall Accuracy is: 78.12
+
+nowTime: 2023-11-17 12:45:38
+epoch = 5  loss = 0.01636444516934755
+lr = 0.00014
+Overall Accuracy is: 78.91
+
+nowTime: 2023-11-17 12:50:05
+epoch = 6  loss = 0.014337023169953068
+lr = 0.00014
+Overall Accuracy is: 79.55
+
+nowTime: 2023-11-17 12:54:31
+epoch = 7  loss = 0.01265425627557818
+lr = 0.00014
+Overall Accuracy is: 80.36
+
+nowTime: 2023-11-17 12:58:56
+epoch = 8  loss = 0.011274764219382007
+lr = 0.00014
+Overall Accuracy is: 80.12
+
+nowTime: 2023-11-17 13:03:21
+epoch = 9  loss = 0.010096855881532966
+lr = 0.00014
+Overall Accuracy is: 80.24
+
+nowTime: 2023-11-17 13:07:47
+epoch = 10  loss = 0.009243564939990465
+lr = 0.00014
+Overall Accuracy is: 79.56
+
+nowTime: 2023-11-17 13:12:13
+epoch = 11  loss = 0.005689817683666454
+lr = 2.8e-05
+Overall Accuracy is: 81.82
+
+nowTime: 2023-11-17 13:16:41
+epoch = 12  loss = 0.004422187375847938
+lr = 2.8e-05
+Overall Accuracy is: 81.95
+
+nowTime: 2023-11-17 13:21:12
+epoch = 13  loss = 0.0035436075097226762
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.14
+
+nowTime: 2023-11-17 13:25:43
+epoch = 14  loss = 0.0032923003072126704
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.10
+
+nowTime: 2023-11-17 13:30:14
+epoch = 15  loss = 0.0030856034583748256
+lr = 1.12e-06
+Overall Accuracy is: 82.07
+
+Overall Accuracy is: 76.60
+
+Overall Accuracy is: 85.75
+
+nowTime: 2023-11-17 14:40:28
+epoch = 1  loss = 0.02882761700126301
+lr = 3.5e-05
+Overall Accuracy is: 74.50
+
+nowTime: 2023-11-17 14:44:56
+epoch = 2  loss = 0.02353738349093215
+lr = 7e-05
+Overall Accuracy is: 76.92
+
+nowTime: 2023-11-17 14:49:22
+epoch = 3  loss = 0.0212091610726412
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.29
+
+nowTime: 2023-11-17 14:53:48
+epoch = 4  loss = 0.019135812061666778
+lr = 0.00014
+Overall Accuracy is: 78.79
+
+nowTime: 2023-11-17 14:58:13
+epoch = 5  loss = 0.016680261956116545
+lr = 0.00014
+Overall Accuracy is: 79.41
+
+nowTime: 2023-11-17 15:02:38
+epoch = 6  loss = 0.014672731600045336
+lr = 0.00014
+Overall Accuracy is: 79.52
+
+nowTime: 2023-11-17 15:07:03
+epoch = 7  loss = 0.012907322494445601
+lr = 0.00014
+Overall Accuracy is: 79.55
+
+nowTime: 2023-11-17 15:11:27
+epoch = 8  loss = 0.011440403585227289
+lr = 0.00014
+Overall Accuracy is: 79.99
+
+nowTime: 2023-11-17 15:15:52
+epoch = 9  loss = 0.01027689166411544
+lr = 0.00014
+Overall Accuracy is: 79.46
+
+nowTime: 2023-11-17 15:20:19
+epoch = 10  loss = 0.009304387701799867
+lr = 0.00014
+Overall Accuracy is: 79.28
+
+nowTime: 2023-11-17 15:24:44
+epoch = 11  loss = 0.0058344733477926035
+lr = 2.8e-05
+Overall Accuracy is: 81.43
+
+nowTime: 2023-11-17 15:29:10
+epoch = 12  loss = 0.004577499106570865
+lr = 2.8e-05
+Overall Accuracy is: 81.14
+
+nowTime: 2023-11-17 15:33:38
+epoch = 13  loss = 0.00369351021421484
+lr = 5.600000000000001e-06
+Overall Accuracy is: 81.29
+
+nowTime: 2023-11-17 15:38:09
+epoch = 14  loss = 0.0034469885224152176
+lr = 5.600000000000001e-06
+Overall Accuracy is: 81.00
+
+nowTime: 2023-11-17 15:42:39
+epoch = 15  loss = 0.0032503129444787014
+lr = 1.12e-06
+Overall Accuracy is: 81.00
+
+Overall Accuracy is: 85.29
+
+Overall Accuracy is: 76.31
+
+nowTime: 2023-11-18 10:42:13
+epoch = 1  loss = 0.033122196136619035
+lr = 3.5e-05
+Overall Accuracy is: 60.51
+
+nowTime: 2023-11-18 10:46:38
+epoch = 2  loss = 0.028181861737742026
+lr = 7e-05
+Overall Accuracy is: 63.91
+
+nowTime: 2023-11-18 10:51:05
+epoch = 3  loss = 0.02580490056574186
+lr = 0.00010499999999999999
+Overall Accuracy is: 65.58
+
+nowTime: 2023-11-18 10:55:32
+epoch = 4  loss = 0.023603046093618355
+lr = 0.00014
+Overall Accuracy is: 66.55
+
+nowTime: 2023-11-18 10:59:59
+epoch = 5  loss = 0.020728837975564317
+lr = 0.00014
+Overall Accuracy is: 67.15
+
+nowTime: 2023-11-18 11:04:26
+epoch = 6  loss = 0.01822738361792499
+lr = 0.00014
+Overall Accuracy is: 67.68
+
+nowTime: 2023-11-18 11:08:51
+epoch = 7  loss = 0.01624805205211353
+lr = 0.00014
+Overall Accuracy is: 68.64
+
+nowTime: 2023-11-18 11:13:17
+epoch = 8  loss = 0.014640013700213183
+lr = 0.00014
+Overall Accuracy is: 68.87
+
+nowTime: 2023-11-18 11:17:42
+epoch = 9  loss = 0.01321685251759511
+lr = 0.00014
+Overall Accuracy is: 68.84
+
+nowTime: 2023-11-18 11:22:07
+epoch = 10  loss = 0.012156082145556149
+lr = 0.00014
+Overall Accuracy is: 69.57
+
+nowTime: 2023-11-18 11:26:32
+epoch = 11  loss = 0.00781340476053037
+lr = 2.8e-05
+Overall Accuracy is: 71.15
+
+nowTime: 2023-11-18 11:30:59
+epoch = 12  loss = 0.006195744809302113
+lr = 2.8e-05
+Overall Accuracy is: 71.26
+
+nowTime: 2023-11-18 11:35:28
+epoch = 13  loss = 0.004976930044771043
+lr = 5.600000000000001e-06
+Overall Accuracy is: 71.34
+
+nowTime: 2023-11-18 11:39:57
+epoch = 14  loss = 0.004618423187968281
+lr = 5.600000000000001e-06
+Overall Accuracy is: 71.41
+
+nowTime: 2023-11-18 11:44:25
+epoch = 15  loss = 0.004338018541096784
+lr = 1.12e-06
+Overall Accuracy is: 71.38
+
+Overall Accuracy is: 61.63
+
+Overall Accuracy is: 77.72
+
+nowTime: 2023-11-18 13:58:48
+epoch = 1  loss = 0.0342901912791764
+lr = 3.5e-05
+Overall Accuracy is: 57.54
+
+nowTime: 2023-11-18 14:01:45
+epoch = 2  loss = 0.0290072014724128
+lr = 7e-05
+Overall Accuracy is: 64.34
+
+nowTime: 2023-11-18 14:04:44
+epoch = 3  loss = 0.026572685950807338
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.77
+
+nowTime: 2023-11-18 14:07:43
+epoch = 4  loss = 0.024846550718317068
+lr = 0.00014
+Overall Accuracy is: 67.77
+
+nowTime: 2023-11-18 14:10:41
+epoch = 5  loss = 0.022317103129502133
+lr = 0.00014
+Overall Accuracy is: 69.02
+
+nowTime: 2023-11-18 14:13:40
+epoch = 6  loss = 0.01989142130838266
+lr = 0.00014
+Overall Accuracy is: 70.71
+
+nowTime: 2023-11-18 14:16:38
+epoch = 7  loss = 0.01794343364213272
+lr = 0.00014
+Overall Accuracy is: 69.55
+
+nowTime: 2023-11-18 14:19:37
+epoch = 8  loss = 0.01633393213993889
+lr = 0.00014
+Overall Accuracy is: 70.14
+
+nowTime: 2023-11-18 14:22:35
+epoch = 9  loss = 0.014759330289950669
+lr = 0.00014
+Overall Accuracy is: 70.08
+
+nowTime: 2023-11-18 14:25:34
+epoch = 10  loss = 0.013378882053676868
+lr = 0.00014
+Overall Accuracy is: 70.00
+
+nowTime: 2023-11-18 14:28:34
+epoch = 11  loss = 0.008963275002685801
+lr = 2.8e-05
+Overall Accuracy is: 72.59
+
+nowTime: 2023-11-18 14:31:33
+epoch = 12  loss = 0.00737416634405704
+lr = 2.8e-05
+Overall Accuracy is: 72.10
+
+nowTime: 2023-11-18 14:34:32
+epoch = 13  loss = 0.006058745000871203
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.14
+
+nowTime: 2023-11-18 14:37:31
+epoch = 14  loss = 0.005706382371242409
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.45
+
+nowTime: 2023-11-18 14:40:31
+epoch = 15  loss = 0.0054202444698892545
+lr = 1.12e-06
+Overall Accuracy is: 72.14
+
+nowTime: 2023-11-19 09:51:53
+epoch = 1  loss = 0.03430191130304801
+lr = 3.5e-05
+Overall Accuracy is: 57.31
+
+nowTime: 2023-11-19 09:54:49
+epoch = 2  loss = 0.029017698773388736
+lr = 7e-05
+Overall Accuracy is: 63.75
+
+nowTime: 2023-11-19 09:57:45
+epoch = 3  loss = 0.026497083618372254
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.63
+
+nowTime: 2023-11-19 10:00:41
+epoch = 4  loss = 0.02453719626887093
+lr = 0.00014
+Overall Accuracy is: 68.77
+
+nowTime: 2023-11-19 10:03:37
+epoch = 5  loss = 0.021878277208502085
+lr = 0.00014
+Overall Accuracy is: 69.46
+
+nowTime: 2023-11-19 10:06:34
+epoch = 6  loss = 0.019504931296365532
+lr = 0.00014
+Overall Accuracy is: 70.32
+
+nowTime: 2023-11-19 10:09:31
+epoch = 7  loss = 0.017425133929616032
+lr = 0.00014
+Overall Accuracy is: 69.81
+
+nowTime: 2023-11-19 10:12:27
+epoch = 8  loss = 0.01573804656520415
+lr = 0.00014
+Overall Accuracy is: 71.55
+
+nowTime: 2023-11-19 10:15:24
+epoch = 9  loss = 0.01435665283811135
+lr = 0.00014
+Overall Accuracy is: 70.61
+
+nowTime: 2023-11-19 10:18:20
+epoch = 10  loss = 0.013363721976663757
+lr = 0.00014
+Overall Accuracy is: 69.02
+
+nowTime: 2023-11-19 10:21:17
+epoch = 11  loss = 0.009040022187456134
+lr = 2.8e-05
+Overall Accuracy is: 71.49
+
+nowTime: 2023-11-19 10:24:14
+epoch = 12  loss = 0.007408176999633898
+lr = 2.8e-05
+Overall Accuracy is: 72.37
+
+nowTime: 2023-11-19 10:27:11
+epoch = 13  loss = 0.006102158762781106
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.04
+
+nowTime: 2023-11-19 10:30:09
+epoch = 14  loss = 0.005747572853879941
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.53
+
+nowTime: 2023-11-19 10:33:05
+epoch = 15  loss = 0.0054569875052278725
+lr = 1.12e-06
+Overall Accuracy is: 72.32
+
+Overall Accuracy is: 72.82
+
+nowTime: 2023-11-20 11:10:03
+epoch = 1  loss = 0.034224893805972156
+lr = 3.5e-05
+Overall Accuracy is: 57.90
+
+nowTime: 2023-11-20 11:12:56
+epoch = 2  loss = 0.028788196367162778
+lr = 7e-05
+Overall Accuracy is: 65.46
+
+nowTime: 2023-11-20 11:15:52
+epoch = 3  loss = 0.02646868147358701
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.42
+
+nowTime: 2023-11-20 11:18:48
+epoch = 4  loss = 0.024799809452081142
+lr = 0.00014
+Overall Accuracy is: 67.85
+
+nowTime: 2023-11-20 11:21:45
+epoch = 5  loss = 0.022328174429455557
+lr = 0.00014
+Overall Accuracy is: 68.34
+
+nowTime: 2023-11-20 11:24:41
+epoch = 6  loss = 0.01994395363981138
+lr = 0.00014
+Overall Accuracy is: 70.08
+
+nowTime: 2023-11-20 11:27:37
+epoch = 7  loss = 0.017820028705886656
+lr = 0.00014
+Overall Accuracy is: 69.77
+
+nowTime: 2023-11-20 11:30:34
+epoch = 8  loss = 0.01607457677343644
+lr = 0.00014
+Overall Accuracy is: 70.79
+
+nowTime: 2023-11-20 11:33:31
+epoch = 9  loss = 0.014550706607827084
+lr = 0.00014
+Overall Accuracy is: 68.93
+
+nowTime: 2023-11-20 11:36:27
+epoch = 10  loss = 0.013427806719811855
+lr = 0.00014
+Overall Accuracy is: 71.02
+
+nowTime: 2023-11-20 11:39:25
+epoch = 11  loss = 0.009152217216964438
+lr = 2.8e-05
+Overall Accuracy is: 72.53
+
+nowTime: 2023-11-20 11:42:22
+epoch = 12  loss = 0.007518332213198912
+lr = 2.8e-05
+Overall Accuracy is: 72.45
+
+nowTime: 2023-11-20 11:45:19
+epoch = 13  loss = 0.006200948462115278
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.55
+
+nowTime: 2023-11-20 11:48:16
+epoch = 14  loss = 0.005859350040110808
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.61
+
+nowTime: 2023-11-20 11:51:14
+epoch = 15  loss = 0.005541817233483166
+lr = 1.12e-06
+Overall Accuracy is: 72.83
+
+Overall Accuracy is: 72.73
+
+nowTime: 2023-11-20 14:25:26
+epoch = 1  loss = 0.03424837780355317
+lr = 3.5e-05
+Overall Accuracy is: 58.50
+
+nowTime: 2023-11-20 14:28:23
+epoch = 2  loss = 0.028718644995923453
+lr = 7e-05
+Overall Accuracy is: 65.09
+
+nowTime: 2023-11-20 14:31:20
+epoch = 3  loss = 0.026355109404067736
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.73
+
+nowTime: 2023-11-20 14:34:16
+epoch = 4  loss = 0.024686514124546692
+lr = 0.00014
+Overall Accuracy is: 67.63
+
+nowTime: 2023-11-20 14:37:13
+epoch = 5  loss = 0.022133919053573297
+lr = 0.00014
+Overall Accuracy is: 69.08
+
+nowTime: 2023-11-20 14:40:09
+epoch = 6  loss = 0.019668037067382155
+lr = 0.00014
+Overall Accuracy is: 70.71
+
+nowTime: 2023-11-20 14:43:06
+epoch = 7  loss = 0.01745816597134609
+lr = 0.00014
+Overall Accuracy is: 69.85
+
+nowTime: 2023-11-20 14:46:03
+epoch = 8  loss = 0.015551340002240835
+lr = 0.00014
+Overall Accuracy is: 71.65
+
+nowTime: 2023-11-20 14:48:59
+epoch = 9  loss = 0.013943178601420836
+lr = 0.00014
+Overall Accuracy is: 70.67
+
+nowTime: 2023-11-20 14:51:56
+epoch = 10  loss = 0.012667671210963178
+lr = 0.00014
+Overall Accuracy is: 70.57
+
+nowTime: 2023-11-20 14:54:53
+epoch = 11  loss = 0.008381451784362143
+lr = 2.8e-05
+Overall Accuracy is: 72.26
+
+nowTime: 2023-11-20 14:57:48
+epoch = 12  loss = 0.006851022167646568
+lr = 2.8e-05
+Overall Accuracy is: 72.47
+
+nowTime: 2023-11-20 15:00:46
+epoch = 13  loss = 0.005653998412159294
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.67
+
+nowTime: 2023-11-20 15:03:43
+epoch = 14  loss = 0.005336750395165161
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.55
+
+nowTime: 2023-11-20 15:06:40
+epoch = 15  loss = 0.005083923033751038
+lr = 1.12e-06
+Overall Accuracy is: 72.65
+
+Overall Accuracy is: 72.75
+
+nowTime: 2023-11-20 15:26:27
+epoch = 1  loss = 0.028736588885244416
+lr = 3.5e-05
+Overall Accuracy is: 74.06
+
+nowTime: 2023-11-20 15:30:51
+epoch = 2  loss = 0.023534756531492035
+lr = 7e-05
+Overall Accuracy is: 77.46
+
+nowTime: 2023-11-20 15:35:15
+epoch = 3  loss = 0.021102369513319143
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.26
+
+nowTime: 2023-11-20 15:39:41
+epoch = 4  loss = 0.01911424282956038
+lr = 0.00014
+Overall Accuracy is: 78.57
+
+nowTime: 2023-11-20 15:44:05
+epoch = 5  loss = 0.016573699471993556
+lr = 0.00014
+Overall Accuracy is: 80.21
+
+nowTime: 2023-11-20 15:48:30
+epoch = 6  loss = 0.014385368748649069
+lr = 0.00014
+Overall Accuracy is: 80.24
+
+nowTime: 2023-11-20 15:52:55
+epoch = 7  loss = 0.012526695857283257
+lr = 0.00014
+Overall Accuracy is: 80.39
+
+nowTime: 2023-11-20 15:57:20
+epoch = 8  loss = 0.011037230301814475
+lr = 0.00014
+Overall Accuracy is: 80.40
+
+nowTime: 2023-11-20 16:01:45
+epoch = 9  loss = 0.009806092307732822
+lr = 0.00014
+Overall Accuracy is: 79.46
+
+nowTime: 2023-11-20 16:06:10
+epoch = 10  loss = 0.00883256229265512
+lr = 0.00014
+Overall Accuracy is: 79.98
+
+nowTime: 2023-11-20 16:10:35
+epoch = 11  loss = 0.005381158356319504
+lr = 2.8e-05
+Overall Accuracy is: 81.84
+
+nowTime: 2023-11-20 16:15:00
+epoch = 12  loss = 0.004205427654932852
+lr = 2.8e-05
+Overall Accuracy is: 81.59
+
+nowTime: 2023-11-20 16:19:25
+epoch = 13  loss = 0.003394212436960168
+lr = 5.600000000000001e-06
+Overall Accuracy is: 81.89
+
+nowTime: 2023-11-20 16:23:50
+epoch = 14  loss = 0.003147620144520141
+lr = 5.600000000000001e-06
+Overall Accuracy is: 81.91
+
+nowTime: 2023-11-20 16:28:15
+epoch = 15  loss = 0.002972754388068844
+lr = 1.12e-06
+Overall Accuracy is: 81.97
+
+Overall Accuracy is: 85.58
+
+Overall Accuracy is: 76.11
+
+nowTime: 2023-11-20 20:30:22
+epoch = 1  loss = 0.03327390403706594
+lr = 3.5e-05
+Overall Accuracy is: 60.37
+
+nowTime: 2023-11-20 20:34:40
+epoch = 2  loss = 0.02819487904027287
+lr = 7e-05
+Overall Accuracy is: 64.46
+
+nowTime: 2023-11-20 20:38:58
+epoch = 3  loss = 0.025813880455409777
+lr = 0.00010499999999999999
+Overall Accuracy is: 65.76
+
+nowTime: 2023-11-20 20:43:16
+epoch = 4  loss = 0.0238171736533631
+lr = 0.00014
+Overall Accuracy is: 66.31
+
+nowTime: 2023-11-20 20:47:34
+epoch = 5  loss = 0.020976442817874454
+lr = 0.00014
+Overall Accuracy is: 68.10
+
+nowTime: 2023-11-20 20:51:51
+epoch = 6  loss = 0.018416151705559703
+lr = 0.00014
+Overall Accuracy is: 68.17
+
+nowTime: 2023-11-20 20:56:08
+epoch = 7  loss = 0.016329720162339488
+lr = 0.00014
+Overall Accuracy is: 69.95
+
+nowTime: 2023-11-20 21:00:26
+epoch = 8  loss = 0.014458791901579263
+lr = 0.00014
+Overall Accuracy is: 68.98
+
+nowTime: 2023-11-20 21:04:44
+epoch = 9  loss = 0.01289782631913072
+lr = 0.00014
+Overall Accuracy is: 68.84
+
+nowTime: 2023-11-20 21:09:01
+epoch = 10  loss = 0.011690925376328005
+lr = 0.00014
+Overall Accuracy is: 69.09
+
+nowTime: 2023-11-20 21:13:18
+epoch = 11  loss = 0.007396171621176463
+lr = 2.8e-05
+Overall Accuracy is: 71.12
+
+nowTime: 2023-11-20 21:17:35
+epoch = 12  loss = 0.005810030735657016
+lr = 2.8e-05
+Overall Accuracy is: 71.10
+
+nowTime: 2023-11-20 21:21:52
+epoch = 13  loss = 0.004615110549733408
+lr = 5.600000000000001e-06
+Overall Accuracy is: 71.07
+
+nowTime: 2023-11-20 21:26:10
+epoch = 14  loss = 0.00428188935797473
+lr = 5.600000000000001e-06
+Overall Accuracy is: 71.15
+
+nowTime: 2023-11-20 21:30:26
+epoch = 15  loss = 0.004011565266146295
+lr = 1.12e-06
+Overall Accuracy is: 71.34
+
+Overall Accuracy is: 61.98
+
+Overall Accuracy is: 78.10
+
+nowTime: 2023-11-20 22:13:01
+epoch = 1  loss = 0.03298834938661145
+lr = 3.5e-05
+Overall Accuracy is: 60.95
+
+nowTime: 2023-11-20 22:17:32
+epoch = 2  loss = 0.027995478277495076
+lr = 7e-05
+Overall Accuracy is: 64.91
+
+nowTime: 2023-11-20 22:21:56
+epoch = 3  loss = 0.02541041378572893
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.10
+
+nowTime: 2023-11-20 22:26:16
+epoch = 4  loss = 0.02320796759083637
+lr = 0.00014
+Overall Accuracy is: 67.60
+
+nowTime: 2023-11-20 22:30:35
+epoch = 5  loss = 0.02032450666987537
+lr = 0.00014
+Overall Accuracy is: 68.63
+
+nowTime: 2023-11-20 22:34:52
+epoch = 6  loss = 0.01789898443550316
+lr = 0.00014
+Overall Accuracy is: 69.07
+
+nowTime: 2023-11-20 22:39:10
+epoch = 7  loss = 0.015796830761556493
+lr = 0.00014
+Overall Accuracy is: 69.86
+
+nowTime: 2023-11-20 22:43:27
+epoch = 8  loss = 0.014093251348129282
+lr = 0.00014
+Overall Accuracy is: 68.91
+
+nowTime: 2023-11-20 22:47:44
+epoch = 9  loss = 0.012697470207690208
+lr = 0.00014
+Overall Accuracy is: 69.80
+
+nowTime: 2023-11-20 22:52:01
+epoch = 10  loss = 0.01144173591024082
+lr = 0.00014
+Overall Accuracy is: 70.27
+
+nowTime: 2023-11-20 22:56:20
+epoch = 11  loss = 0.00717037972127329
+lr = 2.8e-05
+Overall Accuracy is: 72.49
+
+nowTime: 2023-11-20 23:00:38
+epoch = 12  loss = 0.0055521451823461005
+lr = 2.8e-05
+Overall Accuracy is: 72.23
+
+nowTime: 2023-11-20 23:04:57
+epoch = 13  loss = 0.004350353395551459
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.79
+
+nowTime: 2023-11-20 23:09:16
+epoch = 14  loss = 0.004025456911378645
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.94
+
+nowTime: 2023-11-20 23:13:34
+epoch = 15  loss = 0.003750456926141472
+lr = 1.12e-06
+Overall Accuracy is: 72.87
+
+Overall Accuracy is: 78.94
+
+Overall Accuracy is: 62.12
+
+nowTime: 2023-11-21 08:35:44
+epoch = 1  loss = 0.028647216131827635
+lr = 3.5e-05
+Overall Accuracy is: 74.88
+
+nowTime: 2023-11-21 08:40:00
+epoch = 2  loss = 0.023332453981405737
+lr = 7e-05
+Overall Accuracy is: 77.75
+
+nowTime: 2023-11-21 08:44:25
+epoch = 3  loss = 0.020820052017439986
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.68
+
+nowTime: 2023-11-21 08:48:50
+epoch = 4  loss = 0.018961838264643132
+lr = 0.00014
+Overall Accuracy is: 79.18
+
+nowTime: 2023-11-21 08:53:15
+epoch = 5  loss = 0.016552824494893606
+lr = 0.00014
+Overall Accuracy is: 79.88
+
+nowTime: 2023-11-21 08:57:41
+epoch = 6  loss = 0.014493550761699708
+lr = 0.00014
+Overall Accuracy is: 80.54
+
+nowTime: 2023-11-21 09:02:06
+epoch = 7  loss = 0.012693186236927069
+lr = 0.00014
+Overall Accuracy is: 79.90
+
+nowTime: 2023-11-21 09:06:30
+epoch = 8  loss = 0.01114393562036952
+lr = 0.00014
+Overall Accuracy is: 80.48
+
+nowTime: 2023-11-21 09:10:54
+epoch = 9  loss = 0.00994267616067042
+lr = 0.00014
+Overall Accuracy is: 79.53
+
+nowTime: 2023-11-21 09:15:19
+epoch = 10  loss = 0.008923393728571396
+lr = 0.00014
+Overall Accuracy is: 80.69
+
+nowTime: 2023-11-21 09:19:43
+epoch = 11  loss = 0.005366381086733374
+lr = 2.8e-05
+Overall Accuracy is: 82.37
+
+nowTime: 2023-11-21 09:24:08
+epoch = 12  loss = 0.004135129013298487
+lr = 2.8e-05
+Overall Accuracy is: 81.99
+
+nowTime: 2023-11-21 09:28:33
+epoch = 13  loss = 0.0032865113986313994
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.25
+
+nowTime: 2023-11-21 09:32:57
+epoch = 14  loss = 0.003038481052808222
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.19
+
+nowTime: 2023-11-21 09:37:23
+epoch = 15  loss = 0.0028535172022802996
+lr = 1.12e-06
+Overall Accuracy is: 82.23
+
+Overall Accuracy is: 76.66
+
+Overall Accuracy is: 76.66
+
+Overall Accuracy is: 85.82
+
+nowTime: 2023-11-21 14:46:19
+epoch = 1  loss = 0.034329079563873086
+lr = 3.5e-05
+Overall Accuracy is: 57.88
+
+nowTime: 2023-11-21 14:49:15
+epoch = 2  loss = 0.028928887238207794
+lr = 7e-05
+Overall Accuracy is: 64.40
+
+nowTime: 2023-11-21 14:52:11
+epoch = 3  loss = 0.026454411167207224
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.26
+
+nowTime: 2023-11-21 14:55:07
+epoch = 4  loss = 0.024509555972603243
+lr = 0.00014
+Overall Accuracy is: 69.40
+
+nowTime: 2023-11-21 14:58:04
+epoch = 5  loss = 0.021946234692966
+lr = 0.00014
+Overall Accuracy is: 69.51
+
+nowTime: 2023-11-21 15:01:00
+epoch = 6  loss = 0.019633213893935346
+lr = 0.00014
+Overall Accuracy is: 70.34
+
+nowTime: 2023-11-21 15:03:57
+epoch = 7  loss = 0.01758407514293594
+lr = 0.00014
+Overall Accuracy is: 70.98
+
+nowTime: 2023-11-21 15:06:55
+epoch = 8  loss = 0.015790988140353054
+lr = 0.00014
+Overall Accuracy is: 70.45
+
+nowTime: 2023-11-21 15:09:52
+epoch = 9  loss = 0.014295895351467148
+lr = 0.00014
+Overall Accuracy is: 71.00
+
+nowTime: 2023-11-21 15:12:48
+epoch = 10  loss = 0.012959271289603651
+lr = 0.00014
+Overall Accuracy is: 71.65
+
+nowTime: 2023-11-21 15:15:46
+epoch = 11  loss = 0.008555007410725795
+lr = 2.8e-05
+Overall Accuracy is: 73.39
+
+nowTime: 2023-11-21 15:18:41
+epoch = 12  loss = 0.006895941507444378
+lr = 2.8e-05
+Overall Accuracy is: 73.41
+
+nowTime: 2023-11-21 15:21:37
+epoch = 13  loss = 0.005635459233291553
+lr = 5.600000000000001e-06
+Overall Accuracy is: 74.06
+
+nowTime: 2023-11-21 15:24:33
+epoch = 14  loss = 0.005282481975923033
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.98
+
+nowTime: 2023-11-21 15:27:29
+epoch = 15  loss = 0.0049941111002517165
+lr = 1.12e-06
+Overall Accuracy is: 73.94
+
+Overall Accuracy is: 73.42
+
+nowTime: 2023-11-21 15:32:23
+epoch = 1  loss = 0.03420396262279376
+lr = 3.5e-05
+Overall Accuracy is: 58.58
+
+nowTime: 2023-11-21 15:35:19
+epoch = 2  loss = 0.02868333346519874
+lr = 7e-05
+Overall Accuracy is: 65.60
+
+nowTime: 2023-11-21 15:38:16
+epoch = 3  loss = 0.026148025534265276
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.59
+
+nowTime: 2023-11-21 15:41:13
+epoch = 4  loss = 0.024190007359535685
+lr = 0.00014
+Overall Accuracy is: 68.97
+
+nowTime: 2023-11-21 15:44:10
+epoch = 5  loss = 0.02153407848204689
+lr = 0.00014
+Overall Accuracy is: 70.08
+
+nowTime: 2023-11-21 15:47:08
+epoch = 6  loss = 0.019222432009384203
+lr = 0.00014
+Overall Accuracy is: 70.92
+
+nowTime: 2023-11-21 15:50:07
+epoch = 7  loss = 0.017203475466362292
+lr = 0.00014
+Overall Accuracy is: 69.79
+
+nowTime: 2023-11-21 15:53:05
+epoch = 8  loss = 0.015469601109848966
+lr = 0.00014
+Overall Accuracy is: 71.14
+
+nowTime: 2023-11-21 15:56:03
+epoch = 9  loss = 0.014024265847111118
+lr = 0.00014
+Overall Accuracy is: 70.87
+
+nowTime: 2023-11-21 15:58:59
+epoch = 10  loss = 0.012881925965871052
+lr = 0.00014
+Overall Accuracy is: 70.96
+
+nowTime: 2023-11-21 16:01:55
+epoch = 11  loss = 0.008549629739117002
+lr = 2.8e-05
+Overall Accuracy is: 72.69
+
+nowTime: 2023-11-21 16:04:52
+epoch = 12  loss = 0.006882429402395609
+lr = 2.8e-05
+Overall Accuracy is: 73.04
+
+nowTime: 2023-11-21 16:07:49
+epoch = 13  loss = 0.005542981306006554
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.51
+
+nowTime: 2023-11-21 16:10:47
+epoch = 14  loss = 0.00517710393671515
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.65
+
+nowTime: 2023-11-21 16:13:44
+epoch = 15  loss = 0.004877862090575072
+lr = 1.12e-06
+Overall Accuracy is: 73.39
+
+Overall Accuracy is: 73.76
+
+nowTime: 2023-11-21 16:51:48
+epoch = 1  loss = 0.028703428456864286
+lr = 3.5e-05
+Overall Accuracy is: 74.47
+
+nowTime: 2023-11-21 16:56:13
+epoch = 2  loss = 0.02330787273641921
+lr = 7e-05
+Overall Accuracy is: 76.89
+
+nowTime: 2023-11-21 17:00:38
+epoch = 3  loss = 0.020677987792610236
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.95
+
+nowTime: 2023-11-21 17:05:03
+epoch = 4  loss = 0.018720822546714144
+lr = 0.00014
+Overall Accuracy is: 78.96
+
+nowTime: 2023-11-21 17:09:28
+epoch = 5  loss = 0.01624223125273967
+lr = 0.00014
+Overall Accuracy is: 79.38
+
+nowTime: 2023-11-21 17:13:53
+epoch = 6  loss = 0.014142097558256737
+lr = 0.00014
+Overall Accuracy is: 80.65
+
+nowTime: 2023-11-21 17:18:15
+epoch = 7  loss = 0.012369761519300141
+lr = 0.00014
+Overall Accuracy is: 79.84
+
+nowTime: 2023-11-21 17:22:36
+epoch = 8  loss = 0.010812703945185602
+lr = 0.00014
+Overall Accuracy is: 80.74
+
+nowTime: 2023-11-21 17:26:56
+epoch = 9  loss = 0.00964334400666328
+lr = 0.00014
+Overall Accuracy is: 79.66
+
+nowTime: 2023-11-21 17:31:17
+epoch = 10  loss = 0.008693683847009883
+lr = 0.00014
+Overall Accuracy is: 80.61
+
+nowTime: 2023-11-21 17:35:38
+epoch = 11  loss = 0.005193695190067021
+lr = 2.8e-05
+Overall Accuracy is: 82.25
+
+nowTime: 2023-11-21 17:39:59
+epoch = 12  loss = 0.003974596087770406
+lr = 2.8e-05
+Overall Accuracy is: 82.46
+
+nowTime: 2023-11-21 17:44:19
+epoch = 13  loss = 0.003119271769605561
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.70
+
+nowTime: 2023-11-21 17:48:40
+epoch = 14  loss = 0.002884093112452648
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.50
+
+nowTime: 2023-11-21 17:53:01
+epoch = 15  loss = 0.0027106013998039256
+lr = 1.12e-06
+Overall Accuracy is: 82.65
+
+Overall Accuracy is: 86.34
+
+Overall Accuracy is: 76.80
+
+nowTime: 2023-11-21 19:31:57
+epoch = 1  loss = 0.03293498837402448
+lr = 3.5e-05
+Overall Accuracy is: 60.92
+
+nowTime: 2023-11-21 19:36:24
+epoch = 2  loss = 0.027805155117340587
+lr = 7e-05
+Overall Accuracy is: 65.08
+
+nowTime: 2023-11-21 19:40:43
+epoch = 3  loss = 0.024954356021929053
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.94
+
+nowTime: 2023-11-21 19:45:01
+epoch = 4  loss = 0.02284989180762795
+lr = 0.00014
+Overall Accuracy is: 68.03
+
+nowTime: 2023-11-21 19:49:19
+epoch = 5  loss = 0.020100060738742223
+lr = 0.00014
+Overall Accuracy is: 69.00
+
+nowTime: 2023-11-21 19:53:36
+epoch = 6  loss = 0.017666694303288794
+lr = 0.00014
+Overall Accuracy is: 68.65
+
+nowTime: 2023-11-21 19:57:54
+epoch = 7  loss = 0.015689661563609784
+lr = 0.00014
+Overall Accuracy is: 69.81
+
+nowTime: 2023-11-21 20:02:12
+epoch = 8  loss = 0.014001177830277253
+lr = 0.00014
+Overall Accuracy is: 69.33
+
+nowTime: 2023-11-21 20:06:29
+epoch = 9  loss = 0.012610431706962525
+lr = 0.00014
+Overall Accuracy is: 69.87
+
+nowTime: 2023-11-21 20:10:47
+epoch = 10  loss = 0.011453540272292268
+lr = 0.00014
+Overall Accuracy is: 70.29
+
+nowTime: 2023-11-21 20:15:04
+epoch = 11  loss = 0.007130003924251841
+lr = 2.8e-05
+Overall Accuracy is: 72.76
+
+nowTime: 2023-11-21 20:19:22
+epoch = 12  loss = 0.005501276613364456
+lr = 2.8e-05
+Overall Accuracy is: 72.30
+
+nowTime: 2023-11-21 20:23:40
+epoch = 13  loss = 0.004293912263278496
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.75
+
+nowTime: 2023-11-21 20:27:57
+epoch = 14  loss = 0.003979559620116928
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.69
+
+nowTime: 2023-11-21 20:32:15
+epoch = 15  loss = 0.003692950570849691
+lr = 1.12e-06
+Overall Accuracy is: 72.70
+
+Overall Accuracy is: 62.77
+
+Overall Accuracy is: 79.24
+
+nowTime: 2023-11-21 20:42:26
+epoch = 1  loss = 0.03307599795225077
+lr = 3.5e-05
+Overall Accuracy is: 60.90
+
+nowTime: 2023-11-21 20:46:52
+epoch = 2  loss = 0.027973161355359603
+lr = 7e-05
+Overall Accuracy is: 64.49
+
+nowTime: 2023-11-21 20:51:19
+epoch = 3  loss = 0.02537238611663569
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.17
+
+nowTime: 2023-11-21 20:55:43
+epoch = 4  loss = 0.023143731508667983
+lr = 0.00014
+Overall Accuracy is: 67.79
+
+nowTime: 2023-11-21 21:00:11
+epoch = 5  loss = 0.020231237456889213
+lr = 0.00014
+Overall Accuracy is: 69.15
+
+nowTime: 2023-11-21 21:04:36
+epoch = 6  loss = 0.017726857556039085
+lr = 0.00014
+Overall Accuracy is: 69.83
+
+nowTime: 2023-11-21 21:09:01
+epoch = 7  loss = 0.015630462820669978
+lr = 0.00014
+Overall Accuracy is: 69.42
+
+nowTime: 2023-11-21 21:13:26
+epoch = 8  loss = 0.01388093279639917
+lr = 0.00014
+Overall Accuracy is: 69.78
+
+nowTime: 2023-11-21 21:17:51
+epoch = 9  loss = 0.012421955108904559
+lr = 0.00014
+Overall Accuracy is: 69.91
+
+nowTime: 2023-11-21 21:22:18
+epoch = 10  loss = 0.011283775644161534
+lr = 0.00014
+Overall Accuracy is: 70.26
+
+nowTime: 2023-11-21 21:26:44
+epoch = 11  loss = 0.00698935340957981
+lr = 2.8e-05
+Overall Accuracy is: 72.41
+
+nowTime: 2023-11-21 21:31:10
+epoch = 12  loss = 0.005326811775225763
+lr = 2.8e-05
+Overall Accuracy is: 72.63
+
+nowTime: 2023-11-21 21:35:38
+epoch = 13  loss = 0.0041333448554135635
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.77
+
+nowTime: 2023-11-21 21:40:06
+epoch = 14  loss = 0.003820550294824195
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.55
+
+nowTime: 2023-11-21 21:44:32
+epoch = 15  loss = 0.00355189881033473
+lr = 1.12e-06
+Overall Accuracy is: 72.67
+
+Overall Accuracy is: 79.69
+
+Overall Accuracy is: 63.14
+
+nowTime: 2023-11-22 09:43:02
+epoch = 1  loss = 0.028680185212965288
+lr = 3.5e-05
+Overall Accuracy is: 74.41
+
+nowTime: 2023-11-22 09:47:30
+epoch = 2  loss = 0.02325681279632886
+lr = 7e-05
+Overall Accuracy is: 77.22
+
+nowTime: 2023-11-22 09:51:51
+epoch = 3  loss = 0.020596093643504152
+lr = 0.00010499999999999999
+Overall Accuracy is: 78.67
+
+nowTime: 2023-11-22 09:56:11
+epoch = 4  loss = 0.018605406534009772
+lr = 0.00014
+Overall Accuracy is: 78.12
+
+nowTime: 2023-11-22 10:00:30
+epoch = 5  loss = 0.016101155552672986
+lr = 0.00014
+Overall Accuracy is: 79.99
+
+nowTime: 2023-11-22 10:04:49
+epoch = 6  loss = 0.013909743157573312
+lr = 0.00014
+Overall Accuracy is: 80.48
+
+nowTime: 2023-11-22 10:09:07
+epoch = 7  loss = 0.012151497476259661
+lr = 0.00014
+Overall Accuracy is: 80.55
+
+nowTime: 2023-11-22 10:13:30
+epoch = 8  loss = 0.010660506752042808
+lr = 0.00014
+Overall Accuracy is: 80.47
+
+nowTime: 2023-11-22 10:17:53
+epoch = 9  loss = 0.009427514527341047
+lr = 0.00014
+Overall Accuracy is: 80.11
+
+nowTime: 2023-11-22 10:22:19
+epoch = 10  loss = 0.00852589958076486
+lr = 0.00014
+Overall Accuracy is: 80.19
+
+nowTime: 2023-11-22 10:26:44
+epoch = 11  loss = 0.005143312060357232
+lr = 2.8e-05
+Overall Accuracy is: 81.91
+
+nowTime: 2023-11-22 10:31:10
+epoch = 12  loss = 0.003883051051636624
+lr = 2.8e-05
+Overall Accuracy is: 82.03
+
+nowTime: 2023-11-22 10:35:37
+epoch = 13  loss = 0.003060505557061329
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.19
+
+nowTime: 2023-11-22 10:40:06
+epoch = 14  loss = 0.0028195332509248997
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.21
+
+nowTime: 2023-11-22 10:44:34
+epoch = 15  loss = 0.0026370013940801565
+lr = 1.12e-06
+Overall Accuracy is: 82.23
+
+Overall Accuracy is: 76.82
+
+Overall Accuracy is: 85.50
+
+nowTime: 2023-11-22 11:07:33
+epoch = 1  loss = 0.03417801827233764
+lr = 3.5e-05
+Overall Accuracy is: 57.99
+
+nowTime: 2023-11-22 11:10:29
+epoch = 2  loss = 0.028677995947436898
+lr = 7e-05
+Overall Accuracy is: 65.34
+
+nowTime: 2023-11-22 11:13:28
+epoch = 3  loss = 0.026029492840940794
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.99
+
+nowTime: 2023-11-22 11:16:26
+epoch = 4  loss = 0.024018511681007562
+lr = 0.00014
+Overall Accuracy is: 68.55
+
+nowTime: 2023-11-22 11:19:25
+epoch = 5  loss = 0.021342944974207065
+lr = 0.00014
+Overall Accuracy is: 69.98
+
+nowTime: 2023-11-22 11:22:24
+epoch = 6  loss = 0.01899075258407736
+lr = 0.00014
+Overall Accuracy is: 70.67
+
+nowTime: 2023-11-22 11:25:23
+epoch = 7  loss = 0.016921794133050595
+lr = 0.00014
+Overall Accuracy is: 71.02
+
+nowTime: 2023-11-22 11:28:23
+epoch = 8  loss = 0.015162822823758297
+lr = 0.00014
+Overall Accuracy is: 70.73
+
+nowTime: 2023-11-22 11:31:20
+epoch = 9  loss = 0.013717246308496344
+lr = 0.00014
+Overall Accuracy is: 72.02
+
+nowTime: 2023-11-22 11:34:20
+epoch = 10  loss = 0.012449202275078371
+lr = 0.00014
+Overall Accuracy is: 71.28
+
+nowTime: 2023-11-22 11:37:20
+epoch = 11  loss = 0.008090788092085164
+lr = 2.8e-05
+Overall Accuracy is: 73.10
+
+nowTime: 2023-11-22 11:40:18
+epoch = 12  loss = 0.006440399201299598
+lr = 2.8e-05
+Overall Accuracy is: 73.49
+
+nowTime: 2023-11-22 11:43:16
+epoch = 13  loss = 0.005172502939827705
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.75
+
+nowTime: 2023-11-22 11:46:16
+epoch = 14  loss = 0.0048282560139127515
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.86
+
+nowTime: 2023-11-22 11:49:12
+epoch = 15  loss = 0.004559803413544058
+lr = 1.12e-06
+Overall Accuracy is: 73.79
+
+Overall Accuracy is: 73.60
+
+nowTime: 2023-11-22 14:35:19
+epoch = 1  loss = 0.03425430791639088
+lr = 3.5e-05
+Overall Accuracy is: 57.66
+
+nowTime: 2023-11-22 14:38:16
+epoch = 2  loss = 0.028776083196349004
+lr = 7e-05
+Overall Accuracy is: 64.73
+
+nowTime: 2023-11-22 14:41:13
+epoch = 3  loss = 0.026131032122112513
+lr = 0.00010499999999999999
+Overall Accuracy is: 67.73
+
+nowTime: 2023-11-22 14:44:12
+epoch = 4  loss = 0.02426041030903926
+lr = 0.00014
+Overall Accuracy is: 68.32
+
+nowTime: 2023-11-22 14:47:09
+epoch = 5  loss = 0.02157582334481144
+lr = 0.00014
+Overall Accuracy is: 69.65
+
+nowTime: 2023-11-22 14:50:07
+epoch = 6  loss = 0.019110589995921037
+lr = 0.00014
+Overall Accuracy is: 70.61
+
+nowTime: 2023-11-22 14:53:05
+epoch = 7  loss = 0.01701098943531916
+lr = 0.00014
+Overall Accuracy is: 70.85
+
+nowTime: 2023-11-22 14:56:03
+epoch = 8  loss = 0.015252885796627199
+lr = 0.00014
+Overall Accuracy is: 70.57
+
+nowTime: 2023-11-22 14:59:01
+epoch = 9  loss = 0.013698705466869857
+lr = 0.00014
+Overall Accuracy is: 70.69
+
+nowTime: 2023-11-22 15:01:59
+epoch = 10  loss = 0.01240949849235353
+lr = 0.00014
+Overall Accuracy is: 71.57
+
+nowTime: 2023-11-22 15:04:58
+epoch = 11  loss = 0.008103071953671938
+lr = 2.8e-05
+Overall Accuracy is: 73.69
+
+nowTime: 2023-11-22 15:07:55
+epoch = 12  loss = 0.006428442659250361
+lr = 2.8e-05
+Overall Accuracy is: 73.28
+
+nowTime: 2023-11-22 15:10:53
+epoch = 13  loss = 0.005139422586479406
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.51
+
+nowTime: 2023-11-22 15:13:49
+epoch = 14  loss = 0.004794231402933515
+lr = 5.600000000000001e-06
+Overall Accuracy is: 73.86
+
+nowTime: 2023-11-22 15:16:46
+epoch = 15  loss = 0.004507738919573317
+lr = 1.12e-06
+Overall Accuracy is: 73.71
+
+Overall Accuracy is: 73.54
+
+nowTime: 2023-11-22 19:00:50
+epoch = 1  loss = 0.02864827374846629
+lr = 3.5e-05
+Overall Accuracy is: 74.77
+
+nowTime: 2023-11-22 19:05:18
+epoch = 2  loss = 0.02322775291797019
+lr = 7e-05
+Overall Accuracy is: 77.95
+
+nowTime: 2023-11-22 19:09:39
+epoch = 3  loss = 0.020367057633145284
+lr = 0.00010499999999999999
+Overall Accuracy is: 79.45
+
+nowTime: 2023-11-22 19:13:59
+epoch = 4  loss = 0.018433084478601813
+lr = 0.00014
+Overall Accuracy is: 78.36
+
+nowTime: 2023-11-22 19:18:20
+epoch = 5  loss = 0.015918668005575926
+lr = 0.00014
+Overall Accuracy is: 80.04
+
+nowTime: 2023-11-22 19:22:39
+epoch = 6  loss = 0.013799995880953635
+lr = 0.00014
+Overall Accuracy is: 80.16
+
+nowTime: 2023-11-22 19:26:58
+epoch = 7  loss = 0.012020099345068674
+lr = 0.00014
+Overall Accuracy is: 79.76
+
+nowTime: 2023-11-22 19:31:16
+epoch = 8  loss = 0.010607040955115608
+lr = 0.00014
+Overall Accuracy is: 80.34
+
+nowTime: 2023-11-22 19:35:35
+epoch = 9  loss = 0.009486863860463024
+lr = 0.00014
+Overall Accuracy is: 80.28
+
+nowTime: 2023-11-22 19:39:55
+epoch = 10  loss = 0.008549790121288673
+lr = 0.00014
+Overall Accuracy is: 81.17
+
+nowTime: 2023-11-22 19:44:13
+epoch = 11  loss = 0.005102699983621811
+lr = 2.8e-05
+Overall Accuracy is: 82.64
+
+nowTime: 2023-11-22 19:48:32
+epoch = 12  loss = 0.0038428542072214424
+lr = 2.8e-05
+Overall Accuracy is: 82.54
+
+nowTime: 2023-11-22 19:52:51
+epoch = 13  loss = 0.003009208646848118
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.79
+
+nowTime: 2023-11-22 19:57:09
+epoch = 14  loss = 0.002758717428185461
+lr = 5.600000000000001e-06
+Overall Accuracy is: 82.51
+
+nowTime: 2023-11-22 20:01:27
+epoch = 15  loss = 0.0025799264621573863
+lr = 1.12e-06
+Overall Accuracy is: 82.52
+
+Overall Accuracy is: 86.65
+
+Overall Accuracy is: 76.41
+
+nowTime: 2023-11-22 21:50:55
+epoch = 1  loss = 0.03317372741541871
+lr = 3.5e-05
+Overall Accuracy is: 60.19
+
+nowTime: 2023-11-22 21:55:17
+epoch = 2  loss = 0.027979280574363347
+lr = 7e-05
+Overall Accuracy is: 64.29
+
+nowTime: 2023-11-22 21:59:41
+epoch = 3  loss = 0.025182927143449916
+lr = 0.00010499999999999999
+Overall Accuracy is: 66.77
+
+nowTime: 2023-11-22 22:04:05
+epoch = 4  loss = 0.02271545973601942
+lr = 0.00014
+Overall Accuracy is: 67.23
+
+nowTime: 2023-11-22 22:08:28
+epoch = 5  loss = 0.01969337540534293
+lr = 0.00014
+Overall Accuracy is: 68.98
+
+nowTime: 2023-11-22 22:12:51
+epoch = 6  loss = 0.017106127798692243
+lr = 0.00014
+Overall Accuracy is: 68.79
+
+nowTime: 2023-11-22 22:17:18
+epoch = 7  loss = 0.015039732396904306
+lr = 0.00014
+Overall Accuracy is: 70.51
+
+nowTime: 2023-11-22 22:21:46
+epoch = 8  loss = 0.013295065523281527
+lr = 0.00014
+Overall Accuracy is: 69.38
+
+nowTime: 2023-11-22 22:26:14
+epoch = 9  loss = 0.011920500224427413
+lr = 0.00014
+Overall Accuracy is: 69.91
+
+nowTime: 2023-11-22 22:30:41
+epoch = 10  loss = 0.010782253585624835
+lr = 0.00014
+Overall Accuracy is: 70.48
+
+nowTime: 2023-11-22 22:35:05
+epoch = 11  loss = 0.006526574269919539
+lr = 2.8e-05
+Overall Accuracy is: 72.53
+
+nowTime: 2023-11-22 22:39:30
+epoch = 12  loss = 0.004922028157619891
+lr = 2.8e-05
+Overall Accuracy is: 72.10
+
+nowTime: 2023-11-22 22:43:57
+epoch = 13  loss = 0.003786883950551012
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.39
+
+nowTime: 2023-11-22 22:48:24
+epoch = 14  loss = 0.003464187871015764
+lr = 5.600000000000001e-06
+Overall Accuracy is: 72.49
+
+nowTime: 2023-11-22 22:52:52
+epoch = 15  loss = 0.003231819117958789
+lr = 1.12e-06
+Overall Accuracy is: 72.45
+
+Overall Accuracy is: 63.16
+
+Overall Accuracy is: 79.34
+
